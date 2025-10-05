@@ -58,6 +58,10 @@ We may adapt the course schedule to accomodate your learning!
             <span class="tag topic_tag">Topic:</span>
             <span>Introduction to Vectorization + Data Visualization</span>
           </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
         </ul>
       </td>
     </tr>
@@ -97,14 +101,6 @@ We may adapt the course schedule to accomodate your learning!
           <li>
             <span class="tag preclass_tag">Pre-Class:</span>
             <span>Read corresponding chapter; prepare questions to ask in class.</span>
-          </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW1: Vectorization (by midnight the <strong>night before</strong>)</span>
-          </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>HW2: Directed Graphical Models</span>
           </li>
         </ul>
       </td>
@@ -220,51 +216,120 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday">
         <span class="date_label date_label_day">23</span>
         <span class="date_label date_label_month">February</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Maximum Likelihood: Theory [<a href="https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW2: Directed Graphical Models (by midnight the <strong>night before</strong>)</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW3: Frequentist Learning</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">25</span>
         <span class="date_label date_label_month">February</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">26</span>
         <span class="date_label date_label_month">February</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
       <td class="normalday new_month">
         <span class="date_label date_label_day">02</span>
         <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Maximum Likelihood: Code [<a href="https://docs.google.com/presentation/d/1_YuhMoViySureG068w36mS3DeIQisadTlxRUKHdONN0/edit?usp=sharing">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">04</span>
         <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">05</span>
         <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
       <td class="normalday">
         <span class="date_label date_label_day">09</span>
         <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Optimization [<a href="https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">11</span>
         <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">12</span>
         <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Probability (Continuous) [<a href="https://docs.google.com/presentation/d/1TjmwQhPNnqNWbjYMrYTZe1cNokm8D0IEt8hUsKLTSXg/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
@@ -300,24 +365,67 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday">
         <span class="date_label date_label_day">23</span>
         <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">25</span>
         <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>The Ethics of Learning from Data [<a href="https://docs.google.com/presentation/d/1YgdwT-NXqsn0kbK8Gvc8Lsp33QeqVeLYVxzruwdmsIU/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span><ul>
+<li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
+<li>Answer the corresponding questions to prepare for class discussions.</li>
+</ul></span>
+          </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>Checkpoint 3.2 (by midnight the <strong>night before</strong>)</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">26</span>
         <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Regression [<a href="https://docs.google.com/presentation/d/1SWmIccvKGUJq5B-ZtT7LcNvg-4fU7zgp6PUhTAr27gg/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW3: Frequentist Learning (by midnight the <strong>night before</strong>). Follow <a href="https://docs.google.com/forms/d/e/1FAIpQLScxqCIboUOsL5hoSOyyUlg7YZWVh1tvimcpZ2GkNq4XLBeJ_A/viewform?usp=header">these instructions</a>.</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW4: Predictive Models</span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
       <td class="normalday">
         <span class="date_label date_label_day">30</span>
         <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday new_month">
         <span class="date_label date_label_day">01</span>
