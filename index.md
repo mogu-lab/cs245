@@ -18,7 +18,10 @@ We're working to **expand** the ML offerings at Wellesley with the introduction 
 
 **Textbook:** We wrote a [specialized textbook](https://mogu-lab.github.io/probabilistic-foundations-of-ml/) *especially for this course*.
 
-**Meeting Times:** TBD
+**Meeting Times:**
+* Mondays 2:20-3:35pm
+* Wednesdays 1:30-2:45pm
+* Thursdays 2:20-3:35pm
 
 **Location:** TBD
 
