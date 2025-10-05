@@ -43,6 +43,7 @@ def main():
             released = event.get('released', None)
             extra_credit = event.get('extra-credit', None)
             class_over = event.get('class-meetings-over', None)
+            exam = event.get('exam', None)
 
             td_tags = 'normalday' if special is None else 'holiday'
             if event['month'] != cur_month:
@@ -84,7 +85,12 @@ def main():
                         with tags.li():
                             tags.span('Extra-Credit:', cls='tag extracredit_tag')
                             tags.span(convert_md_to_html_if_multiline(extra_credit))
-                    
+
+                    if exam is not None:
+                        with tags.li():
+                            tags.span('Exam:', cls='tag exam_tag')
+                            tags.span(convert_md_to_html_if_multiline(exam))
+                            
                     
     with open('schedule_pre.md', 'r') as f:
         print(f.read())
