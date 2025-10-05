@@ -208,7 +208,12 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday">
         <span class="date_label date_label_day">19</span>
         <span class="date_label date_label_month">February</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag exam_tag">Exam:</span>
+            <span>Midterm I</span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
