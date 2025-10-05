@@ -106,8 +106,8 @@ events:
   - month: "February"
     day: "16"
     day-of-week: "Monday"
-    special: "President's Day: no classes"
-    topic:
+    special: "President's Day: no classes. Instead Monday schedule on Tuesday!"
+    topic: "Lab"
     due:
     released:
     pre-class:
@@ -115,14 +115,6 @@ events:
   - month: "February"
     day: "18"
     day-of-week: "Wednesday"
-    topic: "Lab"
-    due:
-    released:
-    pre-class:
-
-  - month: "February"
-    day: "19"
-    day-of-week: "Thursday"
     topic:
     due:
     released:
@@ -130,12 +122,20 @@ events:
     exam: "Midterm I"
 
   - month: "February"
-    day: "23"
-    day-of-week: "Monday"
+    day: "19"
+    day-of-week: "Thursday"
     topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
     due: "HW2: Directed Graphical Models (by midnight the **night before**)"
     released: "HW3: Frequentist Learning"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
+
+  - month: "February"
+    day: "23"
+    day-of-week: "Monday"
+    topic: "Lab"
+    due:
+    released:
+    pre-class:
 
   - month: "February"
     day: "25"
@@ -148,18 +148,18 @@ events:
   - month: "February"
     day: "26"
     day-of-week: "Thursday"
-    topic: "Lab"
-    due:
-    released:
-    pre-class:
-
-  - month: "March"
-    day: "02"
-    day-of-week: "Monday"
     topic: "Maximum Likelihood: Code [[slides](https://docs.google.com/presentation/d/1_YuhMoViySureG068w36mS3DeIQisadTlxRUKHdONN0/edit?usp=sharing)]"
     due:
     released:
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
+
+  - month: "March"
+    day: "02"
+    day-of-week: "Monday"
+    topic: "Lab"
+    due:
+    released:
+    pre-class:
 
   - month: "March"
     day: "04"
@@ -172,34 +172,34 @@ events:
   - month: "March"
     day: "05"
     day-of-week: "Thursday"
-    topic: "Lab"
-    due:
-    released:
-    pre-class:
-
-  - month: "March"
-    day: "09"
-    day-of-week: "Monday"
     topic: "Optimization [[slides](https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link)]"
     due:
     released:
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "March"
-    day: "11"
-    day-of-week: "Wednesday"
+    day: "09"
+    day-of-week: "Monday"
     topic: "Lab"
     due:
     released:
     pre-class:
 
   - month: "March"
-    day: "12"
-    day-of-week: "Thursday"
+    day: "11"
+    day-of-week: "Wednesday"
     topic: "Probability (Continuous) [[slides](https://docs.google.com/presentation/d/1TjmwQhPNnqNWbjYMrYTZe1cNokm8D0IEt8hUsKLTSXg/edit?usp=share_link)]"
     due: 
     released:
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
+
+  - month: "March"
+    day: "12"
+    day-of-week: "Thursday"
+    topic: "Lab"
+    due:
+    released:
+    pre-class:
 
   - month: "March"
     day: "16"
@@ -231,14 +231,6 @@ events:
   - month: "March"
     day: "23"
     day-of-week: "Monday"
-    topic: "Lab"
-    due:
-    released:
-    pre-class:
-
-  - month: "March"
-    day: "25"
-    day-of-week: "Wednesday"
     topic: "The Ethics of Learning from Data [[slides](https://docs.google.com/presentation/d/1YgdwT-NXqsn0kbK8Gvc8Lsp33QeqVeLYVxzruwdmsIU/edit?usp=share_link)]"
     due: "Checkpoint 3.2 (by midnight the **night before**)"
     released:
@@ -247,8 +239,8 @@ events:
       * Answer the corresponding questions to prepare for class discussions.
 
   - month: "March"
-    day: "26"
-    day-of-week: "Thursday"
+    day: "25"
+    day-of-week: "Wednesday"
     topic:
     due:
     released:
@@ -256,60 +248,68 @@ events:
     exam: "Midterm II"
 
   - month: "March"
-    day: "30"
-    day-of-week: "Monday"
+    day: "26"
+    day-of-week: "Thursday"
     topic: "Regression [[slides](https://docs.google.com/presentation/d/1SWmIccvKGUJq5B-ZtT7LcNvg-4fU7zgp6PUhTAr27gg/edit?usp=share_link)]"
     due: "HW3: Frequentist Learning (by midnight the **night before**). Follow [these instructions](https://docs.google.com/forms/d/e/1FAIpQLScxqCIboUOsL5hoSOyyUlg7YZWVh1tvimcpZ2GkNq4XLBeJ_A/viewform?usp=header)."
     released: "HW4: Predictive Models"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
-    
-  - month: "April"
-    day: "01"
-    day-of-week: "Wednesday"
+
+  - month: "March"
+    day: "30"
+    day-of-week: "Monday"
     topic: "Lab"
     due:
     released:
     pre-class:
     
   - month: "April"
-    day: "02"
-    day-of-week: "Thursday"
+    day: "01"
+    day-of-week: "Wednesday"
     topic: "Classification [[slides](https://docs.google.com/presentation/d/17ret7jhZ_SCJ55jN3pxYJ9uZCnngrsgWqrlhbnj9kyE/edit?usp=share_link)]"
     due:
     released:
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
-
+    
   - month: "April"
-    day: "06"
-    day-of-week: "Monday"
+    day: "02"
+    day-of-week: "Thursday"
     topic: "Lab"
     due: 
     released:
     pre-class:
 
   - month: "April"
-    day: "08"
-    day-of-week: "Wednesday"
+    day: "06"
+    day-of-week: "Monday"
     topic: "Neural Networks [[slides](https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link)]"
     due: 
     released:
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "April"
-    day: "09"
-    day-of-week: "Thursday"
+    day: "08"
+    day-of-week: "Wednesday"
     topic: "Lab"
     due:
     released:
     pre-class:
 
   - month: "April"
-    day: "13"
-    day-of-week: "Monday"
+    day: "09"
+    day-of-week: "Thursday"
     topic: "Model Selection & Evaluation [[slides](https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link)]"
     due:
     released:
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
+
+  - month: "April"
+    day: "13"
+    day-of-week: "Monday"
+    topic: "Lab"
+    due:
+    released:
+    pre-class:
 
   - month: "April"
     day: "15"
@@ -323,10 +323,12 @@ events:
   - month: "April"
     day: "16"
     day-of-week: "Thursday"
-    topic: "Lab"
-    due:
-    released:
-    pre-class:
+    topic: "The Ethics of Predictive Models in Sociotechnical Systems [[slides](https://docs.google.com/presentation/d/11kIDf1jBUrAMD1xwlOyFObriPbxTzMvJSJ1vUXSFjig/edit?usp=share_link)]"
+    due: 
+    released: 
+    pre-class: |
+      * Complete **all readings** listed in the corresponding chapter.
+      * Answer the corresponding questions to prepare for class discussions.
 
   - month: "April"
     day: "20"
@@ -340,25 +342,25 @@ events:
   - month: "April"
     day: "22"
     day-of-week: "Wednesday"
-    topic: "The Ethics of Predictive Models in Sociotechnical Systems [[slides](https://docs.google.com/presentation/d/11kIDf1jBUrAMD1xwlOyFObriPbxTzMvJSJ1vUXSFjig/edit?usp=share_link)]"
-    due: 
-    released: 
-    pre-class: |
-      * Complete **all readings** listed in the corresponding chapter.
-      * Answer the corresponding questions to prepare for class discussions.
-
-  - month: "April"
-    day: "23"
-    day-of-week: "Thursday"
     topic: "Lab"
     due:
     released:
     pre-class:
 
   - month: "April"
+    day: "23"
+    day-of-week: "Thursday"
+    topic: "The Ethics of Machine Learning: A View from History (Part 1) [[slides](https://docs.google.com/presentation/d/14Cjr83OxHSLiav-eI9DsIi7R1pZ5V0l6j_ZEXwRI5Mg/edit?usp=share_link)]"
+    due: "Checkpoint 7.2 (by midnight the **night before**)"
+    released:
+    pre-class: |
+      * Complete **all readings** listed in the corresponding chapter.
+      * Answer the corresponding questions to prepare for class discussions.
+
+  - month: "April"
     day: "27"
     day-of-week: "Monday"
-    topic:
+    topic: "Lab"
     due:
     released:
     pre-class:
@@ -366,7 +368,7 @@ events:
   - month: "April"
     day: "29"
     day-of-week: "Wednesday"
-    topic:
+    topic: "Lab"
     due:
     released:
     pre-class:
@@ -375,7 +377,7 @@ events:
     day: "30"
     day-of-week: "Thursday"
     special: "Substitute Day: Monday Schedule"
-    topic:
+    topic: "Final Reflection"
     due:
     released:
     pre-class:
