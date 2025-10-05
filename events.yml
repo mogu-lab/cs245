@@ -125,7 +125,7 @@ events:
     day: "19"
     day-of-week: "Thursday"
     topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
-    due: "HW2: Directed Graphical Models (by midnight the **night before**)"
+    due: 
     released: "HW3: Frequentist Learning"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
@@ -232,7 +232,7 @@ events:
     day: "23"
     day-of-week: "Monday"
     topic: "The Ethics of Learning from Data [[slides](https://docs.google.com/presentation/d/1YgdwT-NXqsn0kbK8Gvc8Lsp33QeqVeLYVxzruwdmsIU/edit?usp=share_link)]"
-    due: "Checkpoint 3.2 (by midnight the **night before**)"
+    due: 
     released:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
@@ -251,7 +251,7 @@ events:
     day: "26"
     day-of-week: "Thursday"
     topic: "Regression [[slides](https://docs.google.com/presentation/d/1SWmIccvKGUJq5B-ZtT7LcNvg-4fU7zgp6PUhTAr27gg/edit?usp=share_link)]"
-    due: "HW3: Frequentist Learning (by midnight the **night before**). Follow [these instructions](https://docs.google.com/forms/d/e/1FAIpQLScxqCIboUOsL5hoSOyyUlg7YZWVh1tvimcpZ2GkNq4XLBeJ_A/viewform?usp=header)."
+    due: 
     released: "HW4: Predictive Models"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
@@ -351,7 +351,7 @@ events:
     day: "23"
     day-of-week: "Thursday"
     topic: "The Ethics of Machine Learning: A View from History (Part 1) [[slides](https://docs.google.com/presentation/d/14Cjr83OxHSLiav-eI9DsIi7R1pZ5V0l6j_ZEXwRI5Mg/edit?usp=share_link)]"
-    due: "Checkpoint 7.2 (by midnight the **night before**)"
+    due: 
     released:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
