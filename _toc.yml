@@ -15,7 +15,8 @@ parts:
     - file: policies.md
     - file: skills-check.md
   - caption: Resources
-    numbered: false    
+    numbered: false
+    chapters:    
     - title: Textbook
       url: https://mogu-lab.github.io/probabilistic-foundations-of-ml/
     - title: Found a Typo?
