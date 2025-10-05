@@ -30,10 +30,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span><ul>
-<li>What is Probabilistic ML? [<a href="https://docs.google.com/presentation/d/12dm5N-1UiB73Lqk_4QSHTHnWnPDcytIhmCwq-F7Bxuo/edit?usp=sharing">slides</a>]</li>
-<li>Vectorization</li>
-</ul></span>
+            <span>What is Probabilistic ML? [<a href="https://docs.google.com/presentation/d/12dm5N-1UiB73Lqk_4QSHTHnWnPDcytIhmCwq-F7Bxuo/edit?usp=sharing">slides</a>]</span>
           </li>
           <li>
             <span class="tag preclass_tag">Pre-Class:</span>
@@ -440,31 +437,68 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday">
         <span class="date_label date_label_day">02</span>
         <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Classification [<a href="https://docs.google.com/presentation/d/17ret7jhZ_SCJ55jN3pxYJ9uZCnngrsgWqrlhbnj9kyE/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
       <td class="normalday">
         <span class="date_label date_label_day">06</span>
         <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">08</span>
         <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Neural Networks [<a href="https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">09</span>
         <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
       <td class="normalday">
         <span class="date_label date_label_day">13</span>
         <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Model Selection &amp; Evaluation [<a href="https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
+        </ul>
       </td>
       <td class="holiday">
         <span class="date_label date_label_day">15</span>
@@ -478,7 +512,12 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday">
         <span class="date_label date_label_day">16</span>
         <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
@@ -494,12 +533,29 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday">
         <span class="date_label date_label_day">22</span>
         <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>The Ethics of Predictive Models in Sociotechnical Systems [<a href="https://docs.google.com/presentation/d/11kIDf1jBUrAMD1xwlOyFObriPbxTzMvJSJ1vUXSFjig/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span><ul>
+<li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
+<li>Answer the corresponding questions to prepare for class discussions.</li>
+</ul></span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">23</span>
         <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
