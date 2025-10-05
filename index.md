@@ -28,5 +28,6 @@ We're working to **expand** the ML offerings at Wellesley with the introduction 
 1. One of the following: CS 230, CS 230P, CS 230X.
 2. MATH 115 or similar prior experience with univariate calculus.
 3. One of the following: MATH 205, MATH 206, MATH 220, MATH 225, STAT 218, or STAT 318.
-4. Permission of the instructor.
+4. Comfort in Python.
+5. Permission of the instructor.
 
