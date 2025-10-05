@@ -1,10 +1,10 @@
 
-# Probabilistic Foundations of Machine Learning (CS345) 
+# CS245
 
 
 ## License 
 
-Probabilistic Foundations of Machine Learning (c) 2024 by [Yaniv Yacoby](https://yanivyacoby.github.io/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
+(c) 2024 by [Yaniv Yacoby](https://yanivyacoby.github.io/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
 
 
 ## Installation
@@ -37,35 +37,3 @@ Probabilistic Foundations of Machine Learning (c) 2024 by [Yaniv Yacoby](https:/
 ```
 4. All figures are in [this directory](https://www.canva.com/folder/FAFIo00ejB4). 
 
-## DeepNote Setup
-
-1. Add student to workspace as editor
-2. Ask student to duplicate homework project as private
-3. Rename project "Homework N: FIRST-NAME LAST-NAME"
-4. Click share, and invite instructor with edit access
-5. To download a PDF version of your notebook, follow [these instructions](https://deepnote.com/docs/export-pdf)
-
-
-
-## Docker
-
-1. After updating the `requirements.txt` file, run `make docker` to recreate the docker image.
-2. Then, tag the new image with a new version number: e.g., `docker tag yanivyacoby/wellesley-cs345 yanivyacoby/wellesley-cs345:v0`.
-3. Finally run push the tagged version: e.g. `docker push yanivyacoby/wellesley-cs345:v0`.
-
-
-
-
-## Additional Readings
-
-Advanced Topics:
-* [A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/pdf/1701.02434)
-
-
-Ethics:
-* [Predicted benefits, proven harms](https://thesociologicalreview.org/magazine/june-2023/artificial-intelligence/predicted-benefits-proven-harms/)
-
-
-## Future Materials
-
-* Geometry of Bayes' rule and law of total probability for continuous distributions
