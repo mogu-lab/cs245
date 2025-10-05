@@ -215,10 +215,6 @@ We may adapt the course schedule to accomodate your learning!
             <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
           <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW2: Directed Graphical Models (by midnight the <strong>night before</strong>)</span>
-          </li>
-          <li>
             <span class="tag released_tag">Released:</span>
             <span>HW3: Frequentist Learning</span>
           </li>
@@ -378,10 +374,6 @@ We may adapt the course schedule to accomodate your learning!
 <li>Answer the corresponding questions to prepare for class discussions.</li>
 </ul></span>
           </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>Checkpoint 3.2 (by midnight the <strong>night before</strong>)</span>
-          </li>
         </ul>
       </td>
       <td class="normalday">
@@ -405,10 +397,6 @@ We may adapt the course schedule to accomodate your learning!
           <li>
             <span class="tag preclass_tag">Pre-Class:</span>
             <span>Read corresponding chapter; prepare questions to ask in class.</span>
-          </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW3: Frequentist Learning (by midnight the <strong>night before</strong>). Follow <a href="https://docs.google.com/forms/d/e/1FAIpQLScxqCIboUOsL5hoSOyyUlg7YZWVh1tvimcpZ2GkNq4XLBeJ_A/viewform?usp=header">these instructions</a>.</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
@@ -565,10 +553,6 @@ We may adapt the course schedule to accomodate your learning!
 <li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
 <li>Answer the corresponding questions to prepare for class discussions.</li>
 </ul></span>
-          </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>Checkpoint 7.2 (by midnight the <strong>night before</strong>)</span>
           </li>
         </ul>
       </td>
