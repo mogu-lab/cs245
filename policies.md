@@ -66,9 +66,13 @@ In the meantime, we ask you to follow the guidelines below:
 ## Grades
 
 **Course Components.** Course grades are computed by weighing course components as follows:
-* Homework: $75\%$.
+* Homework: $35\%$.
   * Homework assignments are long, but you will be given time to work on them **in class, with your peers.**
-  * Each homework grade is computed as the *minimum* of the grades earned on the methodological component and your ethics component. That is, if you scored 95% on your methodological component and 97% on your ethics component, your homework grade will be 95%. The purpose of this grading scheme is to ensure all students prioritize *both* the methodology *and* the ethics.
+  * Each homework grade is computed as the *minimum* of the grades earned on the methodological component and your ethics component. That is, if you scored 95% on your methodological component and 97% on your ethics component, your homework grade will be 95%. The purpose of this grading scheme is to ensure all students prioritize *both* the methodology *and* the ethics.*
+* Exams: $30\%$.
+  * Midterm I: $5\%$.
+  * Midterm II: $10\%$.
+  * Final: $15\%$.
 * In-class participation: $10\%$.
   * Coming to class prepared, having done the pre-class work/readings
   * Asking questions in class (*all* questions are good questions)
