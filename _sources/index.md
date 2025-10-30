@@ -24,14 +24,6 @@ Looking to learn more about the design of this course? Check out our [recent pap
 
 **Approach:** In this course, we take a *"framework-focused"* approach to connect theory to application to ethics, an approach we developed in [this paper](https://arxiv.org/abs/2510.25049). 
 
-<br/>
-
-<center>
-    <img src="_static/figs/course-design.png" />
-</center>
-
-<br/>
-
 **Meeting Times:**
 * Mondays 2:20-3:35pm
 * Wednesdays 1:30-2:45pm
