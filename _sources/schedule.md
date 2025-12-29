@@ -208,7 +208,7 @@ We may adapt the course schedule to accomodate your learning!
         <span class="date_label date_label_month">February</span>
         <ul class="day_agenda">
           <li>
-            <span class="day_note">President's Day: no classes. Instead Monday schedule on Tuesday!</span>
+            <span class="day_note">President's Day: no classes, but instead Monday schedule on Tuesday!</span>
           </li>
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -222,7 +222,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag exam_tag">Exam:</span>
-            <span>Midterm I</span>
+            <span>Midterm</span>
           </li>
         </ul>
       </td>
@@ -425,8 +425,12 @@ We may adapt the course schedule to accomodate your learning!
         <span class="date_label date_label_month">March</span>
         <ul class="day_agenda">
           <li>
-            <span class="tag exam_tag">Exam:</span>
-            <span>Midterm II</span>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Regression [<a href="https://docs.google.com/presentation/d/1SWmIccvKGUJq5B-ZtT7LcNvg-4fU7zgp6PUhTAr27gg/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
         </ul>
       </td>
@@ -436,11 +440,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Regression [<a href="https://docs.google.com/presentation/d/1SWmIccvKGUJq5B-ZtT7LcNvg-4fU7zgp6PUhTAr27gg/edit?usp=share_link">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+            <span>Lab</span>
           </li>
         </ul>
       </td>
@@ -452,7 +452,11 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>Classification [<a href="https://docs.google.com/presentation/d/17ret7jhZ_SCJ55jN3pxYJ9uZCnngrsgWqrlhbnj9kyE/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
         </ul>
       </td>
@@ -461,12 +465,8 @@ We may adapt the course schedule to accomodate your learning!
         <span class="date_label date_label_month">April</span>
         <ul class="day_agenda">
           <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Classification [<a href="https://docs.google.com/presentation/d/17ret7jhZ_SCJ55jN3pxYJ9uZCnngrsgWqrlhbnj9kyE/edit?usp=share_link">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+            <span class="tag exam_tag">Exam:</span>
+            <span>Practice Final</span>
           </li>
         </ul>
       </td>
