@@ -432,6 +432,14 @@ We may adapt the course schedule to accomodate your learning!
             <span class="tag preclass_tag">Pre-Class:</span>
             <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW7</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW8</span>
+          </li>
         </ul>
       </td>
       <td class="normalday">
@@ -504,6 +512,14 @@ We may adapt the course schedule to accomodate your learning!
             <span class="tag topic_tag">Topic:</span>
             <span>Lab</span>
           </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW8</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW9</span>
+          </li>
         </ul>
       </td>
       <td class="normalday">
@@ -538,6 +554,14 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="day_note">Ruhlman Conference: no classes</span>
+          </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW9</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW10</span>
           </li>
         </ul>
       </td>
@@ -576,6 +600,10 @@ We may adapt the course schedule to accomodate your learning!
           <li>
             <span class="tag topic_tag">Topic:</span>
             <span>Lab</span>
+          </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW10</span>
           </li>
         </ul>
       </td>
