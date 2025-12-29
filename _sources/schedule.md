@@ -605,6 +605,10 @@ We may adapt the course schedule to accomodate your learning!
             <span class="tag due_tag">Due:</span>
             <span>Homework 10</span>
           </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>Homework 11</span>
+          </li>
         </ul>
       </td>
       <td class="normalday">
@@ -650,6 +654,10 @@ We may adapt the course schedule to accomodate your learning!
 <li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
 <li>Answer the corresponding questions to prepare for class discussions.</li>
 </ul></span>
+          </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>Homework 11</span>
           </li>
         </ul>
       </td>
