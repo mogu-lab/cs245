@@ -277,11 +277,8 @@ events:
   - month: "April"
     day: "06"
     day-of-week: "Monday"
-    topic: "Neural Networks [[slides](https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link)]"
-    due: 
-    released:
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
-
+    topic: "Lab"
+    
   - month: "April"
     day: "08"
     day-of-week: "Wednesday"
@@ -293,18 +290,18 @@ events:
   - month: "April"
     day: "09"
     day-of-week: "Thursday"
-    topic: "Lab"
-    due:
+    topic: "Neural Networks [[slides](https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link)]"
+    due: 
     released:
-    pre-class:
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "April"
     day: "13"
     day-of-week: "Monday"
-    topic: "Model Selection & Evaluation [[slides](https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link)]"
+    topic: "Lab"
     due:
     released:
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
+    pre-class:
     
   - month: "April"
     day: "15"
@@ -318,10 +315,10 @@ events:
   - month: "April"
     day: "16"
     day-of-week: "Thursday"
-    topic: "Lab"
-    due: 
-    released: 
-    pre-class:
+    topic: "Model Selection & Evaluation [[slides](https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link)]"
+    due:
+    released:
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
     
   - month: "April"
     day: "20"
@@ -335,21 +332,18 @@ events:
   - month: "April"
     day: "22"
     day-of-week: "Wednesday"
-    topic: "The Ethics of Predictive Models in Sociotechnical Systems [[slides](https://docs.google.com/presentation/d/11kIDf1jBUrAMD1xwlOyFObriPbxTzMvJSJ1vUXSFjig/edit?usp=share_link)]"
-    due: 
-    pre-class: |
-      * Complete **all readings** listed in the corresponding chapter.
-      * Answer the corresponding questions to prepare for class discussions.
+    topic: "Lab"
     released: "Homework 11"      
     due: "Homework 10"
 
   - month: "April"
     day: "23"
     day-of-week: "Thursday"
-    topic: "Special Topics"
-    due:
-    released:
-    pre-class:
+    topic: "The Ethics of Predictive Models in Sociotechnical Systems [[slides](https://docs.google.com/presentation/d/11kIDf1jBUrAMD1xwlOyFObriPbxTzMvJSJ1vUXSFjig/edit?usp=share_link)]"
+    due: 
+    pre-class: |
+      * Complete **all readings** listed in the corresponding chapter.
+      * Answer the corresponding questions to prepare for class discussions.
 
   - month: "April"
     day: "27"
