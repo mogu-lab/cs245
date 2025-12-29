@@ -43,7 +43,7 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
-            <span>HW1</span>
+            <span>Homework 1</span>
           </li>
         </ul>
       </td>
@@ -87,11 +87,11 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>HW1</span>
+            <span>Homework 1</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
-            <span>HW2</span>
+            <span>Homework 2</span>
           </li>
         </ul>
       </td>
@@ -131,11 +131,11 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>HW2</span>
+            <span>Homework 2</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
-            <span>HW3</span>
+            <span>Homework 3</span>
           </li>
         </ul>
       </td>
@@ -175,11 +175,11 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>HW3</span>
+            <span>Homework 3</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
-            <span>HW4</span>
+            <span>Homework 4</span>
           </li>
         </ul>
       </td>
@@ -262,11 +262,11 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>HW4</span>
+            <span>Homework 4</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
-            <span>HW5</span>
+            <span>Homework 5</span>
           </li>
         </ul>
       </td>
@@ -306,11 +306,11 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>HW5</span>
+            <span>Homework 5</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
-            <span>HW6</span>
+            <span>Homework 6</span>
           </li>
         </ul>
       </td>
@@ -354,11 +354,11 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>HW6</span>
+            <span>Homework 6</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
-            <span>HW7</span>
+            <span>Homework 7</span>
           </li>
         </ul>
       </td>
@@ -434,11 +434,11 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>HW7</span>
+            <span>Homework 7</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
-            <span>HW8</span>
+            <span>Homework 8</span>
           </li>
         </ul>
       </td>
@@ -514,11 +514,11 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>HW8</span>
+            <span>Homework 8</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
-            <span>HW9</span>
+            <span>Homework 9</span>
           </li>
         </ul>
       </td>
@@ -557,11 +557,11 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>HW9</span>
+            <span>Homework 9</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
-            <span>HW10</span>
+            <span>Homework 10</span>
           </li>
         </ul>
       </td>
@@ -603,7 +603,7 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>HW10</span>
+            <span>Homework 10</span>
           </li>
         </ul>
       </td>
