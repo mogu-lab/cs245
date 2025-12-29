@@ -293,19 +293,19 @@ events:
   - month: "April"
     day: "09"
     day-of-week: "Thursday"
-    topic: "Model Selection & Evaluation [[slides](https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link)]"
-    due:
-    released:
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
-
-  - month: "April"
-    day: "13"
-    day-of-week: "Monday"
     topic: "Lab"
     due:
     released:
     pre-class:
 
+  - month: "April"
+    day: "13"
+    day-of-week: "Monday"
+    topic: "Model Selection & Evaluation [[slides](https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link)]"
+    due:
+    released:
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
+    
   - month: "April"
     day: "15"
     day-of-week: "Wednesday"
@@ -318,13 +318,11 @@ events:
   - month: "April"
     day: "16"
     day-of-week: "Thursday"
-    topic: "The Ethics of Predictive Models in Sociotechnical Systems [[slides](https://docs.google.com/presentation/d/11kIDf1jBUrAMD1xwlOyFObriPbxTzMvJSJ1vUXSFjig/edit?usp=share_link)]"
+    topic: "Lab"
     due: 
     released: 
-    pre-class: |
-      * Complete **all readings** listed in the corresponding chapter.
-      * Answer the corresponding questions to prepare for class discussions.
-
+    pre-class:
+    
   - month: "April"
     day: "20"
     day-of-week: "Monday"
@@ -337,10 +335,13 @@ events:
   - month: "April"
     day: "22"
     day-of-week: "Wednesday"
-    topic: "Lab"
+    topic: "The Ethics of Predictive Models in Sociotechnical Systems [[slides](https://docs.google.com/presentation/d/11kIDf1jBUrAMD1xwlOyFObriPbxTzMvJSJ1vUXSFjig/edit?usp=share_link)]"
+    due: 
+    released: 
+    pre-class: |
+      * Complete **all readings** listed in the corresponding chapter.
+      * Answer the corresponding questions to prepare for class discussions.
     due: "Homework 10"
-    released:
-    pre-class:
 
   - month: "April"
     day: "23"
