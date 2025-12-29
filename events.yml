@@ -346,28 +346,30 @@ events:
   - month: "April"
     day: "23"
     day-of-week: "Thursday"
+    topic: "Special Topics"
+    due:
+    released:
+    pre-class:
+
+  - month: "April"
+    day: "27"
+    day-of-week: "Monday"
     topic: "The Ethics of Machine Learning: A View from History (Part 1) [[slides](https://docs.google.com/presentation/d/14Cjr83OxHSLiav-eI9DsIi7R1pZ5V0l6j_ZEXwRI5Mg/edit?usp=share_link)]"
     due: 
     released:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
       * Answer the corresponding questions to prepare for class discussions.
-
-  - month: "April"
-    day: "27"
-    day-of-week: "Monday"
-    topic: "Lab"
-    due:
-    released:
-    pre-class:
-
+    
   - month: "April"
     day: "29"
     day-of-week: "Wednesday"
-    topic: "Lab"
-    due:
+    topic: "The Ethics of Machine Learning: A View from History (Part 2) [[slides](https://docs.google.com/presentation/d/1Jig99jUkXXvvfEIr1fihabVAhXdoEpc5WrOglQzhSoc/edit?slide=id.p#slide=id.p)]"
+    due: 
     released:
-    pre-class:
+    pre-class: |
+      * Complete **all readings** listed in the corresponding chapter.
+      * Answer the corresponding questions to prepare for class discussions.
 
   - month: "April"
     day: "30"
