@@ -241,8 +241,8 @@ events:
     day: "25"
     day-of-week: "Wednesday"
     topic: "Regression [[slides](https://docs.google.com/presentation/d/1SWmIccvKGUJq5B-ZtT7LcNvg-4fU7zgp6PUhTAr27gg/edit?usp=share_link)]"
-    due: 
-    released: 
+    due: "HW7"
+    released: "HW8"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "March"
@@ -286,8 +286,8 @@ events:
     day: "08"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due:
-    released:
+    due: "HW8"
+    released: "HW9"
     pre-class:
 
   - month: "April"
@@ -311,8 +311,8 @@ events:
     day-of-week: "Wednesday"
     special: "Ruhlman Conference: no classes"
     topic:
-    due:
-    released:
+    due: "HW9"
+    released: "HW10"
     pre-class:
 
   - month: "April"
@@ -338,7 +338,7 @@ events:
     day: "22"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due:
+    due: "HW10"
     released:
     pre-class:
 
