@@ -26,3 +26,10 @@ parts:
     chapters:
     - file: schedule.md
     - file: oh.md
+  - caption: Assignments
+    numbered: false
+    chapters:
+    - file: hw-instructions.md
+    - title: Homework 1
+      url: https://deepnote.com/workspace/CS-245-0faa2569-63b8-461f-a0d1-a18b87a49a4f/project/Homework-1-Vectorization-in-Jax-Duplicate-d6034a55-1eab-4922-823b-2b28eb62de55/notebook/bfbe3cb6e6934ac299ee755c94e6abb4?secondary-sidebar-autoopen=true&secondary-sidebar=agent
+      
