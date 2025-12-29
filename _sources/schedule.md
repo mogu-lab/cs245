@@ -43,7 +43,7 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
-            <span>HW1: Vectorization</span>
+            <span>HW1</span>
           </li>
         </ul>
       </td>
@@ -99,6 +99,14 @@ We may adapt the course schedule to accomodate your learning!
             <span class="tag preclass_tag">Pre-Class:</span>
             <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW1</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW2</span>
+          </li>
         </ul>
       </td>
     </tr>
@@ -134,6 +142,14 @@ We may adapt the course schedule to accomodate your learning!
           <li>
             <span class="tag preclass_tag">Pre-Class:</span>
             <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW2</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW3</span>
           </li>
         </ul>
       </td>
@@ -175,6 +191,14 @@ We may adapt the course schedule to accomodate your learning!
 <li>Answer the corresponding questions to prepare for class discussions.</li>
 </ul></span>
           </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW3</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW4</span>
+          </li>
         </ul>
       </td>
     </tr>
@@ -215,8 +239,12 @@ We may adapt the course schedule to accomodate your learning!
             <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
           <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW4</span>
+          </li>
+          <li>
             <span class="tag released_tag">Released:</span>
-            <span>HW3: Frequentist Learning</span>
+            <span>HW5</span>
           </li>
         </ul>
       </td>
@@ -253,6 +281,14 @@ We may adapt the course schedule to accomodate your learning!
           <li>
             <span class="tag preclass_tag">Pre-Class:</span>
             <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW5</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW6</span>
           </li>
         </ul>
       </td>
@@ -397,10 +433,6 @@ We may adapt the course schedule to accomodate your learning!
           <li>
             <span class="tag preclass_tag">Pre-Class:</span>
             <span>Read corresponding chapter; prepare questions to ask in class.</span>
-          </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>HW4: Predictive Models</span>
           </li>
         </ul>
       </td>

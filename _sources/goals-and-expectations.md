@@ -99,7 +99,7 @@ Since a large part of this course requires students to work in groups, in alignm
 
 We **deeply care** about your experience in the course and therefore **value your feedback**. There are several ways to provide us with feedback:
 1. **Come talk to us!** We know that no course caters perfectly for all students' learning styles; we will therefore **not be offended** if something isn't working for you. And if there's something we can do to improve your experience, we'd love to know about it!
-2. You can also provide us feedback via this [anonymous form](https://docs.google.com/forms/d/e/1FAIpQLSd11ySpuoYcKQsu9NqBIB9JdOrsxaLilZxDUcJOydp7eCUe9g/viewform?usp=dialog).
+2. You can also provide us feedback via this [anonymous form](https://docs.google.com/forms/d/e/1FAIpQLSeq4REpcP6lThTpc1R2V8urtMrefIEGyxsNwZF4vqdvEiq5QA/viewform?usp=publish-editor).
 3. Lastly, we collect anonymous feedback from all students mid-way through the semester.
 
 
