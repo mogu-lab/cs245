@@ -29,7 +29,7 @@ Looking to learn more about the design of this course? Check out our [recent pap
 * Wednesdays 1:30-2:45pm
 * Thursdays 2:20-3:35pm
 
-**Location:** TBD
+**Location:** SCI N207
 
 **Distributions:** Data Literacy, and Mathematical Modeling and Problem Solving.
 

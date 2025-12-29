@@ -13,7 +13,7 @@ events:
     day-of-week: "Wednesday"
     topic: "What is Probabilistic ML? [[slides](https://docs.google.com/presentation/d/12dm5N-1UiB73Lqk_4QSHTHnWnPDcytIhmCwq-F7Bxuo/edit?usp=sharing)]"
     due:
-    released: "HW1: Vectorization"
+    released: "HW1"
     pre-class: |
       * Read [The Fear of Publicly Not Knowing](https://medium.com/bucknell-hci/the-fear-of-publicly-not-knowing-239e1b7a39f3)
       * Read the course syllabus
@@ -48,8 +48,8 @@ events:
     day: "29"
     day-of-week: "Thursday"
     topic: "Conditional Probability (Discrete) [[slides](https://docs.google.com/presentation/d/1VBx1e5JuMcvcQaoDYUlRUdZk3mzFjAwAiRMigB823v4/edit?usp=sharing)]"
-    due: 
-    released: 
+    due: "HW1"
+    released: "HW2"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "February"
@@ -72,8 +72,8 @@ events:
     day: "05"
     day-of-week: "Thursday"
     topic: "Joint Probability (Discrete) [[slides](https://docs.google.com/presentation/d/1RI11DaA9UwM0EOBiEURUoI2W-9Gd5RUwhJAIi4eolNs/edit?usp=sharing)]"
-    due:
-    released:
+    due: "HW2"
+    released: "HW3"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "February"
@@ -96,8 +96,8 @@ events:
     day: "12"
     day-of-week: "Thursday"
     topic: "The Ethics of Data [[slides](https://docs.google.com/presentation/d/1z0btRmPqJo_LcLET1Q3F8yuas1U7E3hldJE8TYC6MbY/edit?usp=sharing)]"
-    due:
-    released:
+    due: "HW3"
+    released: "HW4"
     pre-class: |
       * Read the "Community Guidelines for Ethics Discussions," under "Goals and Expectations."
       * Complete **all readings** listed in the corresponding chapter.
@@ -125,8 +125,8 @@ events:
     day: "19"
     day-of-week: "Thursday"
     topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
-    due: 
-    released: "HW3: Frequentist Learning"
+    due: "HW4"
+    released: "HW5"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "February"
@@ -149,8 +149,8 @@ events:
     day: "26"
     day-of-week: "Thursday"
     topic: "Maximum Likelihood: Code [[slides](https://docs.google.com/presentation/d/1_YuhMoViySureG068w36mS3DeIQisadTlxRUKHdONN0/edit?usp=sharing)]"
-    due:
-    released:
+    due: "HW5"
+    released: "HW6"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "March"
@@ -252,7 +252,7 @@ events:
     day-of-week: "Thursday"
     topic: "Regression [[slides](https://docs.google.com/presentation/d/1SWmIccvKGUJq5B-ZtT7LcNvg-4fU7zgp6PUhTAr27gg/edit?usp=share_link)]"
     due: 
-    released: "HW4: Predictive Models"
+    released: 
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "March"

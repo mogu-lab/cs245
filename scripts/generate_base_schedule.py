@@ -18,8 +18,8 @@ SPECIAL_DATES = [
     (datetime.datetime(2026, 4, 15), 'Ruhlman Conference: no classes'),
     (datetime.datetime(2026, 4, 20), 'Patriot\'s Day: no classes'),
     (datetime.datetime(2026, 4, 30), 'Substitute Day: Monday Schedule'),
-    (datetime.datetime(2025, 5, 1), 'Reading Period Begins.'),
-    (datetime.datetime(2025, 5, 5), 'Final Exam Period Begins.'),
+    (datetime.datetime(2026, 5, 1), 'Reading Period Begins.'),
+    (datetime.datetime(2026, 5, 5), 'Final Exam Period Begins.'),
 ]
 
 
