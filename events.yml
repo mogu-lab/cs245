@@ -13,7 +13,7 @@ events:
     day-of-week: "Wednesday"
     topic: "What is Probabilistic ML? [[slides](https://docs.google.com/presentation/d/12dm5N-1UiB73Lqk_4QSHTHnWnPDcytIhmCwq-F7Bxuo/edit?usp=sharing)]"
     due:
-    released: "HW1"
+    released: "Homework 1"
     pre-class: |
       * Read [The Fear of Publicly Not Knowing](https://medium.com/bucknell-hci/the-fear-of-publicly-not-knowing-239e1b7a39f3)
       * Read the course syllabus
@@ -40,8 +40,8 @@ events:
     day: "28"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "HW1"
-    released: "HW2"
+    due: "Homework 1"
+    released: "Homework 2"
     pre-class:
 
   - month: "January"
@@ -64,8 +64,8 @@ events:
     day: "04"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "HW2"
-    released: "HW3"
+    due: "Homework 2"
+    released: "Homework 3"
     pre-class:
 
   - month: "February"
@@ -88,8 +88,8 @@ events:
     day: "11"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "HW3"
-    released: "HW4"
+    due: "Homework 3"
+    released: "Homework 4"
     pre-class:
 
   - month: "February"
@@ -140,8 +140,8 @@ events:
     day: "25"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "HW4"
-    released: "HW5"
+    due: "Homework 4"
+    released: "Homework 5"
     pre-class:
 
   - month: "February"
@@ -164,8 +164,8 @@ events:
     day: "04"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "HW5"
-    released: "HW6"
+    due: "Homework 5"
+    released: "Homework 6"
     pre-class:
 
   - month: "March"
@@ -188,8 +188,8 @@ events:
     day: "11"
     day-of-week: "Wednesday"
     topic: "Probability (Continuous) [[slides](https://docs.google.com/presentation/d/1TjmwQhPNnqNWbjYMrYTZe1cNokm8D0IEt8hUsKLTSXg/edit?usp=share_link)]"
-    due: "HW6"
-    released: "HW7"
+    due: "Homework 6"
+    released: "Homework 7"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "March"
@@ -241,8 +241,8 @@ events:
     day: "25"
     day-of-week: "Wednesday"
     topic: "Regression [[slides](https://docs.google.com/presentation/d/1SWmIccvKGUJq5B-ZtT7LcNvg-4fU7zgp6PUhTAr27gg/edit?usp=share_link)]"
-    due: "HW7"
-    released: "HW8"
+    due: "Homework 7"
+    released: "Homework 8"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "March"
@@ -286,8 +286,8 @@ events:
     day: "08"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "HW8"
-    released: "HW9"
+    due: "Homework 8"
+    released: "Homework 9"
     pre-class:
 
   - month: "April"
@@ -311,8 +311,8 @@ events:
     day-of-week: "Wednesday"
     special: "Ruhlman Conference: no classes"
     topic:
-    due: "HW9"
-    released: "HW10"
+    due: "Homework 9"
+    released: "Homework 10"
     pre-class:
 
   - month: "April"
@@ -338,7 +338,7 @@ events:
     day: "22"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "HW10"
+    due: "Homework 10"
     released:
     pre-class:
 
