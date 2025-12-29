@@ -337,10 +337,10 @@ events:
     day-of-week: "Wednesday"
     topic: "The Ethics of Predictive Models in Sociotechnical Systems [[slides](https://docs.google.com/presentation/d/11kIDf1jBUrAMD1xwlOyFObriPbxTzMvJSJ1vUXSFjig/edit?usp=share_link)]"
     due: 
-    released: 
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
       * Answer the corresponding questions to prepare for class discussions.
+    released: "Homework 11"      
     due: "Homework 10"
 
   - month: "April"
@@ -365,7 +365,7 @@ events:
     day: "29"
     day-of-week: "Wednesday"
     topic: "The Ethics of Machine Learning: A View from History (Part 2) [[slides](https://docs.google.com/presentation/d/1Jig99jUkXXvvfEIr1fihabVAhXdoEpc5WrOglQzhSoc/edit?slide=id.p#slide=id.p)]"
-    due: 
+    due: "Homework 11"
     released:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
