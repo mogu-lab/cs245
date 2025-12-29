@@ -6,7 +6,9 @@
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Search - Probabilistic Foundations of Machine Learning (CS345)</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>How to Download/Run/Submit &#8212; Probabilistic Foundations of Machine Learning (CS345)</title>
   
   
   
@@ -58,14 +60,14 @@
     <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'search';</script>
-  <script src="_static/searchtools.js"></script>
-  <script src="_static/language_data.js"></script>
-  <script src="searchindex.js"></script>
-    <link rel="canonical" href="https://mogu-lab.github.io/cs345/search.html" />
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'hw-instructions';</script>
+    <link rel="canonical" href="https://mogu-lab.github.io/cs345/hw-instructions.html" />
     <link rel="icon" href="_static/favicon.ico"/>
     <link rel="index" title="Index" href="genindex.html" />
-    <link rel="search" title="Search" href="#" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Office Hours" href="oh.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -97,7 +99,7 @@
     <div class="search-button__overlay"></div>
     <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
-      action="#"
+      action="search.html"
       method="get">
   <i class="fa-solid fa-magnifying-glass"></i>
   <input type="search"
@@ -127,8 +129,6 @@
     <div class="bd-container__inner bd-page-width">
       
       
-      
-        
       
       <div class="bd-sidebar-primary bd-sidebar">
         
@@ -201,8 +201,8 @@
 <li class="toctree-l1"><a class="reference internal" href="oh.html">Office Hours</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Assignments</span></p>
-<ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="hw-instructions.html">How to Download/Run/Submit</a></li>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">How to Download/Run/Submit</a></li>
 <li class="toctree-l1"><a class="reference external" href="https://deepnote.com/workspace/CS-245-0faa2569-63b8-461f-a0d1-a18b87a49a4f/project/Homework-1-Vectorization-in-Jax-Duplicate-d6034a55-1eab-4922-823b-2b28eb62de55/notebook/bfbe3cb6e6934ac299ee755c94e6abb4?secondary-sidebar-autoopen=true&amp;secondary-sidebar=agent" rel="noreferrer" target="_blank">Homework 1</a></li>
 </ul>
 
@@ -248,6 +248,54 @@
 
 
 
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/hw-instructions.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
 <button onclick="toggleFullScreen()"
   class="btn btn-sm btn-fullscreen-button"
   title="Fullscreen mode"
@@ -281,7 +329,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
 </div></div>
       
     </div>
@@ -290,42 +340,132 @@ document.write(`
 </div>
               
               
-  <div class="bd-search-container">
-    <h1>Search</h1>
-    <noscript>
-      <div class="admonition error">
-        <p class="admonition-title">Error</p>
-        <p>Please activate JavaScript to enable the search functionality.</p>
-      </div>
-    </noscript>
-    
-<form class="bd-search d-flex align-items-center"
-      action="#"
-      method="get">
-  <i class="fa-solid fa-magnifying-glass"></i>
-  <input type="search"
-         class="form-control"
-         name="q"
-         id="search-input"
-         placeholder="Search this book..."
-         aria-label="Search this book..."
-         autocomplete="off"
-         autocorrect="off"
-         autocapitalize="off"
-         spellcheck="false"/>
-  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-    <div id="search-results"></div>
-  </div>
-  <script>
-    // Activate the search field on page load
-    let searchInput = document.querySelector("form.bd-search input");
-    if (searchInput) {
-        searchInput.focus();
-        searchInput.select();
-        console.log("[PST]: Set focus on search field.");
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>How to Download/Run/Submit</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#joining-the-class-on-gradescope">Joining the Class on Gradescope</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#downloading-the-homework">Downloading the Homework</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#deepnote-setup">DeepNote Setup</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#submitting-homework">Submitting Homework</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#including-graphics-in-deepnote">Including Graphics in DeepNote</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#running-code-locally">Running Code Locally</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="how-to-download-run-submit">
+<h1>How to Download/Run/Submit<a class="headerlink" href="#how-to-download-run-submit" title="Link to this heading">#</a></h1>
+<section id="joining-the-class-on-gradescope">
+<h2>Joining the Class on Gradescope<a class="headerlink" href="#joining-the-class-on-gradescope" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>Create an account on <a class="reference external" href="https://www.gradescope.com/" rel="noreferrer" target="_blank">Gradescope</a> using your <em>Wellesley College</em> email.</p></li>
+<li><p>Join the course using the entry code <code class="docutils literal notranslate"><span class="pre">TBD</span></code>.</p></li>
+</ol>
+</section>
+<section id="downloading-the-homework">
+<h2>Downloading the Homework<a class="headerlink" href="#downloading-the-homework" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>Log into <a class="reference external" href="https://deepnote.com/" rel="noreferrer" target="_blank">DeepNote</a> using your Wellesley College email.</p></li>
+<li><p>Go to homework link.</p></li>
+<li><p>Duplicate the homework as <em>private</em>. You can do this by clicking on the “…” on the top right corner of the screen, and selected “Duplicate project”. When the dialog box pops up, make sure to click the ‘make private’ button.</p></li>
+<li><p>After the project has been duplicated. Rename it to say: <code class="docutils literal notranslate"><span class="pre">HW-N:</span> <span class="pre">FIRST</span> <span class="pre">LAST</span></code>, where <code class="docutils literal notranslate"><span class="pre">N</span></code> is the homework number, and <code class="docutils literal notranslate"><span class="pre">FIRST</span></code> and <code class="docutils literal notranslate"><span class="pre">LAST</span></code> are your first and last names.</p></li>
+</ol>
+</section>
+<section id="deepnote-setup">
+<h2>DeepNote Setup<a class="headerlink" href="#deepnote-setup" title="Link to this heading">#</a></h2>
+<p><strong>Disabling Generative AI.</strong> Follow <a class="reference external" href="https://deepnote.com/docs/deepnote-ai" rel="noreferrer" target="_blank">these instructions</a> to disable any Generative AI or autocomplete in your notebook.</p>
+<p><strong>Increasing Notebook Timeout.</strong> If you notice that after a few minutes, the machine running your notebook shut off, you’re welcome to increase the timeout following <a class="reference external" href="https://deepnote.com/docs/long-running-jobs" rel="noreferrer" target="_blank">these instructions</a>.</p>
+</section>
+<section id="submitting-homework">
+<h2>Submitting Homework<a class="headerlink" href="#submitting-homework" title="Link to this heading">#</a></h2>
+<p>Given challenges with DeepNote and Gradescope, follow the instructions for submission listed on the schedule.</p>
+<!--
+
+**Uploading.**
+1. Run each notebook from start to finish (with no interruptions) so we can see the output of every cell.
+2. Download the `.ipynb` files of your notebooks from DeepNote.
+3. Using [this tool](https://www.convert.ploomber.io/pdf?converter=nbconvert-webpdf), convert your `.ipynb` files to `.pdf` files (make sure the "WebPDF" format is selected). If for some mysterious reason, that doesn't work, try following [these instructions](https://deepnote.com/docs/export-pdf) instead (just don't forget to "delete the app" afterwards).
+4. Navigate to the course's Gradescope and submit them there (please **only** submit the `.pdf` files).
+
+**Checking.** Check to make sure that, in your *Gradescope* submission,
+1. All cells have been run and their output is visible.
+2. All images you included are showing.
+3. You included the notebook for **every** checkpoint.
+4. Your markdown text / math is not illegible because it was all put on the same line. 
+
+Homework problems that do not include the output of the code, as described above, create substantial additional work for us to grade, and **will therefore be given zero credit**.
+
+-->
+</section>
+<section id="including-graphics-in-deepnote">
+<h2>Including Graphics in DeepNote<a class="headerlink" href="#including-graphics-in-deepnote" title="Link to this heading">#</a></h2>
+<p>For some of the assignments, you’ll have to draw figures (by hand, in google slides, or in some other way). To include these figures in a DeepNote notebook, follow these steps:</p>
+<ol class="arabic simple">
+<li><p>Upload your image to the <code class="docutils literal notranslate"><span class="pre">figs</span></code> directory in DeepNote.</p></li>
+<li><p>Make sure this import statement is included: <code class="docutils literal notranslate"><span class="pre">from</span> <span class="pre">IPython.display</span> <span class="pre">import</span> <span class="pre">Image</span></code>.</p></li>
+<li><p>In a <em>code</em> cell, write <code class="docutils literal notranslate"><span class="pre">Image('figs/FILENAME')</span></code>.</p></li>
+</ol>
+</section>
+<section id="running-code-locally">
+<h2>Running Code Locally<a class="headerlink" href="#running-code-locally" title="Link to this heading">#</a></h2>
+<p>The benefit of working in DeepNote is that no student should have installation issues—the environment is uniform for all students, and we’ve already taken care to ensure everything works. Students who prefer to complete the assignments locally on their own machines can follow the instructions here. However, we note that we unfortunately cannot help troubleshoot installation issues.</p>
+<ol class="arabic simple">
+<li><p>Create a virtual python environment with python <span class="math notranslate nohighlight">\(3.10\)</span>. We recommend using <a class="reference external" href="https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html" rel="noreferrer" target="_blank">Micromamba</a> for this.</p></li>
+<li><p>Then run the following commands in your terminal:</p></li>
+</ol>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="c1"># Install Python packages</span>
+<span class="n">wget</span> <span class="o">-</span><span class="n">O</span> <span class="s2">&quot;requirements.txt&quot;</span> <span class="s2">&quot;https://raw.githubusercontent.com/mogu-lab/probabilistic-foundations-of-ml/master/requirements.txt&quot;</span>
+<span class="n">pip</span> <span class="n">install</span> <span class="o">-</span><span class="n">r</span> <span class="o">./</span><span class="n">requirements</span><span class="o">.</span><span class="n">txt</span>
+
+<span class="c1"># Get the course&#39;s helper libraries</span>
+<span class="n">wget</span> <span class="o">-</span><span class="n">O</span> <span class="s2">&quot;deepnote_init.py&quot;</span> <span class="s2">&quot;https://raw.githubusercontent.com/mogu-lab/probabilistic-foundations-of-ml/master/scripts/deepnote_init.py&quot;</span>
+<span class="n">python</span> <span class="n">deepnote_init</span><span class="o">.</span><span class="n">py</span>
+
+<span class="c1"># Create a directory for uploading figures</span>
+<span class="n">mkdir</span> <span class="o">-</span><span class="n">p</span> <span class="n">figs</span>
+</pre></div>
+</div>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
     }
-  </script>
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
 
               
               
@@ -334,12 +474,41 @@ document.write(`
                 <footer class="prev-next-footer d-print-none">
                   
 <div class="prev-next-area">
+    <a class="left-prev"
+       href="oh.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Office Hours</p>
+      </div>
+    </a>
 </div>
                 </footer>
               
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#joining-the-class-on-gradescope">Joining the Class on Gradescope</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#downloading-the-homework">Downloading the Homework</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#deepnote-setup">DeepNote Setup</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#submitting-homework">Submitting Homework</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#including-graphics-in-deepnote">Including Graphics in DeepNote</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#running-code-locally">Running Code Locally</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
