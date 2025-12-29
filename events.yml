@@ -40,16 +40,16 @@ events:
     day: "28"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due:
-    released:
+    due: "HW1"
+    released: "HW2"
     pre-class:
 
   - month: "January"
     day: "29"
     day-of-week: "Thursday"
     topic: "Conditional Probability (Discrete) [[slides](https://docs.google.com/presentation/d/1VBx1e5JuMcvcQaoDYUlRUdZk3mzFjAwAiRMigB823v4/edit?usp=sharing)]"
-    due: "HW1"
-    released: "HW2"
+    due:
+    released:    
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "February"
@@ -64,16 +64,16 @@ events:
     day: "04"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due:
-    released:
+    due: "HW2"
+    released: "HW3"
     pre-class:
 
   - month: "February"
     day: "05"
     day-of-week: "Thursday"
     topic: "Joint Probability (Discrete) [[slides](https://docs.google.com/presentation/d/1RI11DaA9UwM0EOBiEURUoI2W-9Gd5RUwhJAIi4eolNs/edit?usp=sharing)]"
-    due: "HW2"
-    released: "HW3"
+    due:
+    released:    
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "February"
@@ -88,16 +88,16 @@ events:
     day: "11"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due:
-    released:
+    due: "HW3"
+    released: "HW4"
     pre-class:
 
   - month: "February"
     day: "12"
     day-of-week: "Thursday"
     topic: "The Ethics of Data [[slides](https://docs.google.com/presentation/d/1z0btRmPqJo_LcLET1Q3F8yuas1U7E3hldJE8TYC6MbY/edit?usp=sharing)]"
-    due: "HW3"
-    released: "HW4"
+    due:
+    released:
     pre-class: |
       * Read the "Community Guidelines for Ethics Discussions," under "Goals and Expectations."
       * Complete **all readings** listed in the corresponding chapter.
@@ -117,16 +117,16 @@ events:
     day-of-week: "Wednesday"
     topic:
     due:
-    released:
-    pre-class:
+    due: "HW4"
+    released: "HW5"
     exam: "Midterm I"
 
   - month: "February"
     day: "19"
     day-of-week: "Thursday"
     topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
-    due: "HW4"
-    released: "HW5"
+    released:
+    pre-class:
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "February"
@@ -149,16 +149,16 @@ events:
     day: "26"
     day-of-week: "Thursday"
     topic: "Maximum Likelihood: Code [[slides](https://docs.google.com/presentation/d/1_YuhMoViySureG068w36mS3DeIQisadTlxRUKHdONN0/edit?usp=sharing)]"
-    due: "HW5"
-    released: "HW6"
+    due:
+    released:
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "March"
     day: "02"
     day-of-week: "Monday"
     topic: "Lab"
-    due:
-    released:
+    due: "HW5"
+    released: "HW6"
     pre-class:
 
   - month: "March"
