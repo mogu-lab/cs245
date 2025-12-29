@@ -116,9 +116,8 @@ events:
     day: "18"
     day-of-week: "Wednesday"
     topic:
-    due:
-    due: "HW4"
-    released: "HW5"
+    due: 
+    released:
     exam: "Midterm I"
 
   - month: "February"
@@ -141,8 +140,8 @@ events:
     day: "25"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due:
-    released:
+    due: "HW4"
+    released: "HW5"
     pre-class:
 
   - month: "February"
@@ -157,8 +156,8 @@ events:
     day: "02"
     day-of-week: "Monday"
     topic: "Lab"
-    due: "HW5"
-    released: "HW6"
+    due:
+    released:
     pre-class:
 
   - month: "March"
