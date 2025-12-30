@@ -226,7 +226,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag exam_tag">Exam:</span>
-            <span>Midterm</span>
+            <span>Midterm I</span>
           </li>
         </ul>
       </td>
@@ -350,7 +350,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag exam_tag">Exam:</span>
-            <span>Practice Final</span>
+            <span>Midterm II</span>
           </li>
         </ul>
       </td>
