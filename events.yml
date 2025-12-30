@@ -195,11 +195,13 @@ events:
   - month: "March"
     day: "12"
     day-of-week: "Thursday"
-    topic: "Lab"
-    due:
+    topic: "The Ethics of Learning from Data [[slides](https://docs.google.com/presentation/d/1YgdwT-NXqsn0kbK8Gvc8Lsp33QeqVeLYVxzruwdmsIU/edit?usp=share_link)]"
+    due: 
     released:
-    pre-class:
-
+    pre-class: |
+      * Complete **all readings** listed in the corresponding chapter.
+      * Answer the corresponding questions to prepare for class discussions.
+    
   - month: "March"
     day: "16"
     day-of-week: "Monday"
@@ -230,20 +232,18 @@ events:
   - month: "March"
     day: "23"
     day-of-week: "Monday"
-    topic: "The Ethics of Learning from Data [[slides](https://docs.google.com/presentation/d/1YgdwT-NXqsn0kbK8Gvc8Lsp33QeqVeLYVxzruwdmsIU/edit?usp=share_link)]"
+    topic: "Regression [[slides](https://docs.google.com/presentation/d/1SWmIccvKGUJq5B-ZtT7LcNvg-4fU7zgp6PUhTAr27gg/edit?usp=share_link)]"
     due: 
-    released:
-    pre-class: |
-      * Complete **all readings** listed in the corresponding chapter.
-      * Answer the corresponding questions to prepare for class discussions.
+    released: 
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "March"
     day: "25"
     day-of-week: "Wednesday"
-    topic: "Regression [[slides](https://docs.google.com/presentation/d/1SWmIccvKGUJq5B-ZtT7LcNvg-4fU7zgp6PUhTAr27gg/edit?usp=share_link)]"
+    topic: "Lan"
     due: "Homework 7"
     released: "Homework 8"
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
+    pre-class: 
 
   - month: "March"
     day: "26"
