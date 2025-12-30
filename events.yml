@@ -116,7 +116,7 @@ events:
     topic:
     due: 
     released:
-    exam: "Midterm"
+    exam: "Midterm I"
 
   - month: "February"
     day: "19"
@@ -183,7 +183,7 @@ events:
   - month: "March"
     day: "11"
     day-of-week: "Wednesday"
-    exam: "Practice Final"
+    exam: "Midterm II"
 
   - month: "March"
     day: "12"
