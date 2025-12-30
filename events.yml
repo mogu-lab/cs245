@@ -107,10 +107,9 @@ events:
     day: "16"
     day-of-week: "Monday"
     special: "President's Day: no classes, but instead Monday schedule on Tuesday!"
-    topic: "Lab"
-    due:
+    topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
     released:
-    pre-class:
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "February"
     day: "18"
@@ -123,10 +122,9 @@ events:
   - month: "February"
     day: "19"
     day-of-week: "Thursday"
-    topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
+    topic: "Lab"
     released:
-    pre-class:
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
+    pre-class: 
 
   - month: "February"
     day: "23"
@@ -139,18 +137,18 @@ events:
   - month: "February"
     day: "25"
     day-of-week: "Wednesday"
-    topic: "Lab"
+    topic: "Maximum Likelihood: Code [[slides](https://docs.google.com/presentation/d/1_YuhMoViySureG068w36mS3DeIQisadTlxRUKHdONN0/edit?usp=sharing)]"
     due: "Homework 4"
     released: "Homework 5"
-    pre-class:
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "February"
     day: "26"
     day-of-week: "Thursday"
-    topic: "Maximum Likelihood: Code [[slides](https://docs.google.com/presentation/d/1_YuhMoViySureG068w36mS3DeIQisadTlxRUKHdONN0/edit?usp=sharing)]"
+    topic: "Lab"
     due:
     released:
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
+    pre-class: 
 
   - month: "March"
     day: "02"
@@ -163,44 +161,41 @@ events:
   - month: "March"
     day: "04"
     day-of-week: "Wednesday"
-    topic: "Lab"
+    topic: "Optimization [[slides](https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link)]""Optimization [[slides](https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link)]"
     due: "Homework 5"
     released: "Homework 6"
-    pre-class:
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "March"
     day: "05"
     day-of-week: "Thursday"
-    topic: "Optimization [[slides](https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link)]"
-    due:
-    released:
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
-
-  - month: "March"
-    day: "09"
-    day-of-week: "Monday"
     topic: "Lab"
     due:
     released:
     pre-class:
 
   - month: "March"
-    day: "11"
-    day-of-week: "Wednesday"
+    day: "09"
+    day-of-week: "Monday"
     topic: "Probability (Continuous) [[slides](https://docs.google.com/presentation/d/1TjmwQhPNnqNWbjYMrYTZe1cNokm8D0IEt8hUsKLTSXg/edit?usp=share_link)]"
     due: "Homework 6"
     released: "Homework 7"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "March"
-    day: "12"
-    day-of-week: "Thursday"
+    day: "11"
+    day-of-week: "Wednesday"
     topic: "The Ethics of Learning from Data [[slides](https://docs.google.com/presentation/d/1YgdwT-NXqsn0kbK8Gvc8Lsp33QeqVeLYVxzruwdmsIU/edit?usp=share_link)]"
     due: 
     released:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
       * Answer the corresponding questions to prepare for class discussions.
+
+  - month: "March"
+    day: "12"
+    day-of-week: "Thursday"
+    exam: "Practice Final"
     
   - month: "March"
     day: "16"
@@ -240,7 +235,7 @@ events:
   - month: "March"
     day: "25"
     day-of-week: "Wednesday"
-    topic: "Lan"
+    topic: "Lab"
     due: "Homework 7"
     released: "Homework 8"
     pre-class: 
@@ -264,7 +259,6 @@ events:
   - month: "April"
     day: "01"
     day-of-week: "Wednesday"
-    exam: "Practice Final"
     
   - month: "April"
     day: "02"
