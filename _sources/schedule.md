@@ -175,7 +175,7 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>Homework 3</span>
+            <span>Homework 3 (A+B)</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
@@ -426,7 +426,7 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>Homework 6</span>
+            <span>Homework 6 (A+B)</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
@@ -470,7 +470,7 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>Homework 7</span>
+            <span>Homework 7 (A+B)</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
@@ -657,7 +657,7 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>Homework 11</span>
+            <span>Homework 11 (A+B+C)</span>
           </li>
         </ul>
       </td>
