@@ -106,7 +106,7 @@ events:
   - month: "February"
     day: "16"
     day-of-week: "Monday"
-    special: "President's Day: no classes, but instead Monday schedule on Tuesday!"
+    special: "President's Day: Monday schedule on Tuesday!"
     topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
@@ -257,6 +257,7 @@ events:
   - month: "April"
     day: "01"
     day-of-week: "Wednesday"
+    topic: "Lab"    
     due: "Homework 7"
     released: "Homework 8"
     
@@ -271,8 +272,11 @@ events:
   - month: "April"
     day: "06"
     day-of-week: "Monday"
-    topic: "Lab"
-    
+    topic: "Neural Networks [[slides](https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link)]"
+    due: 
+    released:
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
+        
   - month: "April"
     day: "08"
     day-of-week: "Wednesday"
@@ -284,18 +288,15 @@ events:
   - month: "April"
     day: "09"
     day-of-week: "Thursday"
-    topic: "Neural Networks [[slides](https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link)]"
-    due: 
-    released:
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
+    topic: "Lab"
 
   - month: "April"
     day: "13"
     day-of-week: "Monday"
-    topic: "Lab"
+    topic: "Model Selection & Evaluation [[slides](https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link)]"
     due:
     released:
-    pre-class:
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
     
   - month: "April"
     day: "15"
@@ -308,11 +309,11 @@ events:
 
   - month: "April"
     day: "16"
-    day-of-week: "Thursday"
-    topic: "Model Selection & Evaluation [[slides](https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link)]"
+    day-of-week: "Thursday"    
+    topic: "Lab"
     due:
     released:
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
+    pre-class:
     
   - month: "April"
     day: "20"
