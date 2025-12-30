@@ -342,18 +342,20 @@ We may adapt the course schedule to accomodate your learning!
             <span class="tag preclass_tag">Pre-Class:</span>
             <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>Homework 6</span>
-          </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>Homework 7</span>
-          </li>
         </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">11</span>
+        <span class="date_label date_label_month">March</span>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag exam_tag">Exam:</span>
+            <span>Practice Final</span>
+          </li>
+        </ul>
+      </td>
+      <td class="normalday">
+        <span class="date_label date_label_day">12</span>
         <span class="date_label date_label_month">March</span>
         <ul class="day_agenda">
           <li>
@@ -366,16 +368,6 @@ We may adapt the course schedule to accomodate your learning!
 <li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
 <li>Answer the corresponding questions to prepare for class discussions.</li>
 </ul></span>
-          </li>
-        </ul>
-      </td>
-      <td class="normalday">
-        <span class="date_label date_label_day">12</span>
-        <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag exam_tag">Exam:</span>
-            <span>Practice Final</span>
           </li>
         </ul>
       </td>
@@ -434,11 +426,11 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>Homework 7</span>
+            <span>Homework 6</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
-            <span>Homework 8</span>
+            <span>Homework 7</span>
           </li>
         </ul>
       </td>
@@ -471,7 +463,16 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday new_month">
         <span class="date_label date_label_day">01</span>
         <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>Homework 7</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>Homework 8</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">02</span>
