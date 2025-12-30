@@ -108,7 +108,6 @@ events:
     day-of-week: "Monday"
     special: "President's Day: no classes, but instead Monday schedule on Tuesday!"
     topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
-    released:
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "February"
@@ -123,6 +122,7 @@ events:
     day: "19"
     day-of-week: "Thursday"
     topic: "Lab"
+    due:    
     released:
     pre-class: 
 
@@ -161,7 +161,7 @@ events:
   - month: "March"
     day: "04"
     day-of-week: "Wednesday"
-    topic: "Optimization [[slides](https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link)]""Optimization [[slides](https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link)]"
+    topic: "Optimization [[slides](https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link)]"
     due: "Homework 5"
     released: "Homework 6"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
