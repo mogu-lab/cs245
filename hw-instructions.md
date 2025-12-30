@@ -27,7 +27,13 @@
 
 ## Submitting Homework
 
-Given challenges with DeepNote and Gradescope, follow the instructions for submission listed on the schedule.
+Please follow these instructions to submit your homeworks:
+1. Run your notebook from start to finish in DeepNote. This ensures the output of your code is visible for the graders.
+2. Then download the ipynb file and upload it to Gradescope.
+3. Finally, on DeepNote, go to "security" under your account settings; enable "Allow projects to be shared publicly". Then go to your homework project, click "Share", and copy the link to your project. 
+4. Test that the link will be visible to the graders by pasting it to an incognito browser window. **Your homework will not be graded if we cannot access this link.**
+5. Finally, submit the link with your reflection, linked as a Google Form from the course schedule.
+
 
 <!--
 
