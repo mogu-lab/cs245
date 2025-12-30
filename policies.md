@@ -11,10 +11,10 @@
 
 **Late Passes.** We offer every student **3 x 24-hour late passes**.
 * Each late pass may be applied to delay one assignment deadline by 24 hours within the semester.
-* Any number of available passes may be applied to any assignment deadline. No work is accepted past the beginning of reading period, regardless of available late passes.
+* Up to three available passes may be applied to any single assignment deadline. No work is accepted past the beginning of reading period, regardless of available late passes.
 * Late passes are not transferable, reusable, or divisible.
-* After your late pass budget is exhausted, each additional 24-hour delay in assignment submission is assessed a late penalty that subtracts 10% of the maximum assignment grade from your awarded grade on that assignment. **If your homework is more than 3 days late, it will not be graded.** This is to help the TAs grading your work return the assignments to everyone in a timely manner.
-* To use a late day, you must fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfzAyHw0msdRuxeFmUGHJ4blL8bP6MfyEPXI8Ok5ZHG8JuRFg/viewform?usp=publish-editor) **before the assignment deadline**.
+* After your late pass budget is exhausted, each additional 24-hour delay in assignment submission is assessed a late penalty that subtracts 10% of the maximum assignment grade from your awarded grade on that assignment. **And if your homework is more than 3 days late, it will not be graded.** This is to help the TAs grading your work return the assignments to everyone in a timely manner.
+* Finally, to use a late day, you must fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfzAyHw0msdRuxeFmUGHJ4blL8bP6MfyEPXI8Ok5ZHG8JuRFg/viewform?usp=publish-editor) **before the assignment deadline**.
 
 **Extenuating Circumstances.** In cases of extenuating circumstances, please reach out to your instructor *and* [class dean](https://www1.wellesley.edu/advising/classdeans) so we can, together, work out alternative arrangements.
 
