@@ -592,7 +592,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>Lab or Special Topics</span>
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
