@@ -212,7 +212,11 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>Maximum Likelihood: Theory [<a href="https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
         </ul>
       </td>
@@ -232,11 +236,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Maximum Likelihood: Theory [<a href="https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+            <span>Lab</span>
           </li>
         </ul>
       </td>
@@ -258,7 +258,11 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>Maximum Likelihood: Code [<a href="https://docs.google.com/presentation/d/1_YuhMoViySureG068w36mS3DeIQisadTlxRUKHdONN0/edit?usp=sharing">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
@@ -276,11 +280,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Maximum Likelihood: Code [<a href="https://docs.google.com/presentation/d/1_YuhMoViySureG068w36mS3DeIQisadTlxRUKHdONN0/edit?usp=sharing">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+            <span>Lab</span>
           </li>
         </ul>
       </td>
@@ -302,7 +302,11 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>Optimization [<a href="https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
@@ -320,11 +324,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Optimization [<a href="https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+            <span>Lab</span>
           </li>
         </ul>
       </td>
@@ -332,16 +332,6 @@ We may adapt the course schedule to accomodate your learning!
     <tr class="col_headers light_row">
       <td class="normalday">
         <span class="date_label date_label_day">09</span>
-        <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-        </ul>
-      </td>
-      <td class="normalday">
-        <span class="date_label date_label_day">11</span>
         <span class="date_label date_label_month">March</span>
         <ul class="day_agenda">
           <li>
@@ -363,7 +353,7 @@ We may adapt the course schedule to accomodate your learning!
         </ul>
       </td>
       <td class="normalday">
-        <span class="date_label date_label_day">12</span>
+        <span class="date_label date_label_day">11</span>
         <span class="date_label date_label_month">March</span>
         <ul class="day_agenda">
           <li>
@@ -376,6 +366,16 @@ We may adapt the course schedule to accomodate your learning!
 <li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
 <li>Answer the corresponding questions to prepare for class discussions.</li>
 </ul></span>
+          </li>
+        </ul>
+      </td>
+      <td class="normalday">
+        <span class="date_label date_label_day">12</span>
+        <span class="date_label date_label_month">March</span>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag exam_tag">Exam:</span>
+            <span>Practice Final</span>
           </li>
         </ul>
       </td>
@@ -430,7 +430,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lan</span>
+            <span>Lab</span>
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
@@ -471,12 +471,7 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday new_month">
         <span class="date_label date_label_day">01</span>
         <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag exam_tag">Exam:</span>
-            <span>Practice Final</span>
-          </li>
-        </ul>
+        <ul class="day_agenda"></ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">02</span>
