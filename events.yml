@@ -88,7 +88,7 @@ events:
     day: "11"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "Homework 3"
+    due: "Homework 3 (A+B)"
     released: "Homework 4"
     pre-class:
 
@@ -234,7 +234,7 @@ events:
     day: "25"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "Homework 6"
+    due: "Homework 6 (A+B)"
     released: "Homework 7"    
     pre-class: 
 
@@ -258,7 +258,7 @@ events:
     day: "01"
     day-of-week: "Wednesday"
     topic: "Lab"    
-    due: "Homework 7"
+    due: "Homework 7 (A+B)"
     released: "Homework 8"
     
   - month: "April"
@@ -354,7 +354,7 @@ events:
     day: "29"
     day-of-week: "Wednesday"
     topic: "The Ethics of Machine Learning: A View from History (Part 2) [[slides](https://docs.google.com/presentation/d/1Jig99jUkXXvvfEIr1fihabVAhXdoEpc5WrOglQzhSoc/edit?slide=id.p#slide=id.p)]"
-    due: "Homework 11"
+    due: "Homework 11 (A+B+C)"
     released:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
