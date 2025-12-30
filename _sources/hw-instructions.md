@@ -40,7 +40,7 @@ Given challenges with DeepNote and Gradescope, follow the instructions for submi
 **Checking.** Check to make sure that, in your *Gradescope* submission,
 1. All cells have been run and their output is visible.
 2. All images you included are showing.
-3. You included the notebook for **every** checkpoint.
+3. You included the notebook for **every** part of the homework.
 4. Your markdown text / math is not illegible because it was all put on the same line. 
 
 Homework problems that do not include the output of the code, as described above, create substantial additional work for us to grade, and **will therefore be given zero credit**.

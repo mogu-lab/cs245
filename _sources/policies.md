@@ -8,21 +8,13 @@
 
 ## Late Policy
 
-**Deadlines.** The assignment due dates are listed in the course schedule. Please read the due dates carefully, since assignments are often due the **night before their listing**.
 
-**Checkpoints.** Every assignment is broken into pieces, which we expect you to submit on the due dates listed on the course schedule. These checkpoints are there to help *you*: they will help you make sure you stay on top of the material, and they will help us know if, in general, any topics need reinforcements. We're looking for *completeness* in your checkpoint submissions; that is, you need to show that you meaningfully attempted to solving *every problem* in the checkpoint, or indicate that you're chatted with a member of the course staff about that problem (including what you're learned from them). Checkpoints are not graded, but if students are not submitting complete checkpoints, we will start *actually grading them* for completeness. 
-
-
-**Late Passes.** From our experience, we know that it's difficult to learn new material in class while working on homework on older material. Because of this, we specifically designed the class so that homework topics are always current with the class material. We expect that this will help everyone stay on top of the material. However, for this design to work, we ask for your help in ensuring you don't fall behind. Come talk to us if you have questions or concerns!
-
-We nonetheless offer every student **3 x 24-hour late passes**.
+**Late Passes.** We offer every student **3 x 24-hour late passes**.
 * Each late pass may be applied to delay one assignment deadline by 24 hours within the semester.
-* Any number of available passes may be applied to any assignment deadline. No work is accepted past the end of the final exam period, regardless of available late passes.
+* Any number of available passes may be applied to any assignment deadline. No work is accepted past the beginning of reading period, regardless of available late passes.
 * Late passes are not transferable, reusable, or divisible.
-* After your late pass budget is exhausted, each additional 24-hour delay in assignment submission is assessed a late penalty that subtracts 10% of the maximum assignment grade from your awarded grade on that assignment.
+* After your late pass budget is exhausted, each additional 24-hour delay in assignment submission is assessed a late penalty that subtracts 10% of the maximum assignment grade from your awarded grade on that assignment. **If your homework is more than 3 days late, it will not be graded.**
 * To use a late day, you must fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfzAyHw0msdRuxeFmUGHJ4blL8bP6MfyEPXI8Ok5ZHG8JuRFg/viewform?usp=publish-editor) **before the assignment deadline**.
-
-Note: late passes **cannot be used for checkpoint** submissions. 
 
 **Extenuating Circumstances.** In cases of extenuating circumstances, please reach out to your instructor *and* [class dean](https://www1.wellesley.edu/advising/classdeans) so we can, together, work out alternative arrangements.
 
