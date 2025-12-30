@@ -178,25 +178,23 @@ events:
     day: "09"
     day-of-week: "Monday"
     topic: "Probability (Continuous) [[slides](https://docs.google.com/presentation/d/1TjmwQhPNnqNWbjYMrYTZe1cNokm8D0IEt8hUsKLTSXg/edit?usp=share_link)]"
-    due: "Homework 6"
-    released: "Homework 7"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "March"
     day: "11"
     day-of-week: "Wednesday"
+    exam: "Practice Final"
+
+  - month: "March"
+    day: "12"
+    day-of-week: "Thursday"
     topic: "The Ethics of Learning from Data [[slides](https://docs.google.com/presentation/d/1YgdwT-NXqsn0kbK8Gvc8Lsp33QeqVeLYVxzruwdmsIU/edit?usp=share_link)]"
     due: 
     released:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
       * Answer the corresponding questions to prepare for class discussions.
-
-  - month: "March"
-    day: "12"
-    day-of-week: "Thursday"
-    exam: "Practice Final"
-    
+        
   - month: "March"
     day: "16"
     day-of-week: "Monday"
@@ -236,8 +234,8 @@ events:
     day: "25"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "Homework 7"
-    released: "Homework 8"
+    due: "Homework 6"
+    released: "Homework 7"    
     pre-class: 
 
   - month: "March"
@@ -259,6 +257,8 @@ events:
   - month: "April"
     day: "01"
     day-of-week: "Wednesday"
+    due: "Homework 7"
+    released: "Homework 8"
     
   - month: "April"
     day: "02"
