@@ -596,7 +596,7 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>Homework 10 at 9pm</span>
+            <span>Homework 10 (A+B) at 9pm</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
