@@ -327,7 +327,7 @@ events:
   - month: "April"
     day: "22"
     day-of-week: "Wednesday"
-    topic: "Lab"
+    topic: "Lab or Special Topics"
     released: "Homework 11"      
     due: "Homework 10"
 
