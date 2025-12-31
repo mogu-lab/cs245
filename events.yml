@@ -13,7 +13,7 @@ events:
     day-of-week: "Wednesday"
     topic: "What is Probabilistic ML? [[slides](https://docs.google.com/presentation/d/12dm5N-1UiB73Lqk_4QSHTHnWnPDcytIhmCwq-F7Bxuo/edit?usp=sharing)]"
     due:
-    released: "Homework 1"
+    released: "HW1"
     pre-class: |
       * Read [The Fear of Publicly Not Knowing](https://medium.com/bucknell-hci/the-fear-of-publicly-not-knowing-239e1b7a39f3)
       * Read the course syllabus
@@ -40,8 +40,8 @@ events:
     day: "28"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "Homework 1 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdVwrRbRx0g38dB9kpVZavt6GK2P0-OTrGci0Vr3L8sYeR-0Q/viewform?usp=dialog) by 10pm"
-    released: "Homework 2"
+    due: "HW1 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdVwrRbRx0g38dB9kpVZavt6GK2P0-OTrGci0Vr3L8sYeR-0Q/viewform?usp=dialog) by 10pm"
+    released: "HW2"
     pre-class:
 
   - month: "January"
@@ -64,8 +64,8 @@ events:
     day: "04"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "Homework 2 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSeBcJnF8cFbCH1NW3D2ZexahrK_ofuas416Vy6PI1Qnr1siHQ/viewform?usp=dialog) by 10pm"
-    released: "Homework 3"
+    due: "HW2 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSeBcJnF8cFbCH1NW3D2ZexahrK_ofuas416Vy6PI1Qnr1siHQ/viewform?usp=dialog) by 10pm"
+    released: "HW3"
     pre-class:
 
   - month: "February"
@@ -88,8 +88,8 @@ events:
     day: "11"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "Homework 3 (A+B) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfIRI-lyBsB765rCQ8xnKgIb-adD3K7oWkuyIUS9mAIaLFa3w/viewform?usp=publish-editor) by 10pm"    
-    released: "Homework 4"
+    due: "HW3 (A+B) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfIRI-lyBsB765rCQ8xnKgIb-adD3K7oWkuyIUS9mAIaLFa3w/viewform?usp=publish-editor) by 10pm"    
+    released: "HW4"
     pre-class:
 
   - month: "February"
@@ -138,8 +138,8 @@ events:
     day: "25"
     day-of-week: "Wednesday"
     topic: "Maximum Likelihood: Code [[slides](https://docs.google.com/presentation/d/1_YuhMoViySureG068w36mS3DeIQisadTlxRUKHdONN0/edit?usp=sharing)]"
-    due: "Homework 4 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSchGpCvR9mMz1Atm9N9PYkPdnCdTAW7feHPNupcjPvpK0tkgA/viewform?usp=publish-editor) by 10pm"
-    released: "Homework 5"
+    due: "HW4 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSchGpCvR9mMz1Atm9N9PYkPdnCdTAW7feHPNupcjPvpK0tkgA/viewform?usp=publish-editor) by 10pm"
+    released: "HW5"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "February"
@@ -162,8 +162,8 @@ events:
     day: "04"
     day-of-week: "Wednesday"
     topic: "Optimization [[slides](https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link)]"
-    due: "Homework 5 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfFL7YFkXj9EkDAZcklxl0RDRmkO_Mn1E_lnjhD6AgmtziXUw/viewform?usp=publish-editor) by 10pm"
-    released: "Homework 6"
+    due: "HW5 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfFL7YFkXj9EkDAZcklxl0RDRmkO_Mn1E_lnjhD6AgmtziXUw/viewform?usp=publish-editor) by 10pm"
+    released: "HW6"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "March"
@@ -234,8 +234,8 @@ events:
     day: "25"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "Homework 6 (A+B+C) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLScnmCIxqM922hz3vmB4k8Pbwk_k3XmisCNDFSk9_h5K-wJtEA/viewform?usp=publish-editor) by 10pm"
-    released: "Homework 7"    
+    due: "HW6 (A+B+C) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLScnmCIxqM922hz3vmB4k8Pbwk_k3XmisCNDFSk9_h5K-wJtEA/viewform?usp=publish-editor) by 10pm"
+    released: "HW7"    
     pre-class: 
 
   - month: "March"
@@ -258,8 +258,8 @@ events:
     day: "01"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "Homework 7 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdAjWxYms_BbFVpcSZWudatyTjLWYhPIK1cuaGb7dgzByPMkw/viewform?usp=publish-editor) by 10pm"
-    released: "Homework 8"
+    due: "HW7 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdAjWxYms_BbFVpcSZWudatyTjLWYhPIK1cuaGb7dgzByPMkw/viewform?usp=publish-editor) by 10pm"
+    released: "HW8"
     
   - month: "April"
     day: "02"
@@ -281,8 +281,8 @@ events:
     day: "08"
     day-of-week: "Wednesday"
     topic: "Lab"
-    due: "Homework 8 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfTO6cY1s3Hs-ZWwxQTTIQFVifuH_c4Mt_kp2hObi1lcNY-XA/viewform?usp=publish-editor) by 10pm"
-    released: "Homework 9"
+    due: "HW8 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfTO6cY1s3Hs-ZWwxQTTIQFVifuH_c4Mt_kp2hObi1lcNY-XA/viewform?usp=publish-editor) by 10pm"
+    released: "HW9"
     pre-class:
 
   - month: "April"
@@ -303,8 +303,8 @@ events:
     day-of-week: "Wednesday"
     special: "Ruhlman Conference: no classes"
     topic:
-    due: "Homework 9 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSctMtoF18KE17YyzyiP0_dmAl374ovbib1m8Gj2hRprrlP9Ew/viewform?usp=publish-editor) by 10pm"
-    released: "Homework 10"
+    due: "HW9 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSctMtoF18KE17YyzyiP0_dmAl374ovbib1m8Gj2hRprrlP9Ew/viewform?usp=publish-editor) by 10pm"
+    released: "HW10"
     pre-class:
 
   - month: "April"
@@ -328,8 +328,8 @@ events:
     day: "22"
     day-of-week: "Wednesday"
     topic: "Lab or Special Topics"
-    released: "Homework 11"
-    due: "Homework 10 (A+B) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfcU3vvkDT7hRl3lzEr4na56UFz2zWUUJoRjvmDJbhbl-Sbqw/viewform?usp=publish-editor) by 10pm"
+    released: "HW11"
+    due: "HW10 (A+B) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfcU3vvkDT7hRl3lzEr4na56UFz2zWUUJoRjvmDJbhbl-Sbqw/viewform?usp=publish-editor) by 10pm"
 
   - month: "April"
     day: "23"
@@ -354,7 +354,7 @@ events:
     day: "29"
     day-of-week: "Wednesday"
     topic: "The Ethics of Machine Learning: A View from History (Part 2) [[slides](https://docs.google.com/presentation/d/1Jig99jUkXXvvfEIr1fihabVAhXdoEpc5WrOglQzhSoc/edit?slide=id.p#slide=id.p)]"
-    due: "Homework 11 (A+B+C) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdkzjenfEt2ou8KFrlTrpqHgdH66KyKMXcvOIc9BTpJ3DHyWA/viewform?usp=publish-editor) by 10pm"
+    due: "HW11 (A+B+C) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdkzjenfEt2ou8KFrlTrpqHgdH66KyKMXcvOIc9BTpJ3DHyWA/viewform?usp=publish-editor) by 10pm"
     released:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
