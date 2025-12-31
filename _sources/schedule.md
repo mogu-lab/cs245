@@ -426,7 +426,7 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>Homework 6 (A+B) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmCIxqM922hz3vmB4k8Pbwk_k3XmisCNDFSk9_h5K-wJtEA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+            <span>Homework 6 (A+B+C) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmCIxqM922hz3vmB4k8Pbwk_k3XmisCNDFSk9_h5K-wJtEA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
@@ -470,7 +470,7 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>Homework 7 (A+B) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAjWxYms_BbFVpcSZWudatyTjLWYhPIK1cuaGb7dgzByPMkw/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+            <span>Homework 7 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAjWxYms_BbFVpcSZWudatyTjLWYhPIK1cuaGb7dgzByPMkw/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
