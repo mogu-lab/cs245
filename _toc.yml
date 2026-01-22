@@ -30,6 +30,8 @@ parts:
     numbered: false
     chapters:
     - file: hw-instructions.md
+    - title: Scrap Notebook
+      url: https://deepnote.com/workspace/cs-245-0faa2569-63b8-461f-a0d1-a18b87a49a4f/project/Homework-1-Vectorization-in-Jax-Duplicate-ca616edd-3f4b-4eb5-bf30-1dbda220c44a/notebook/Scrap-Notebook-1650579864494748a00bd19226f944a0?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=ca616edd-3f4b-4eb5-bf30-1dbda220c44a
     - title: Homework 1
       url: https://deepnote.com/workspace/CS-245-0faa2569-63b8-461f-a0d1-a18b87a49a4f/project/Homework-1-Vectorization-in-Jax-Duplicate-d6034a55-1eab-4922-823b-2b28eb62de55/notebook/HW-bfbe3cb6e6934ac299ee755c94e6abb4?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=d6034a55-1eab-4922-823b-2b28eb62de55
     - title: Homework 2
