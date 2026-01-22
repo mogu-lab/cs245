@@ -23,7 +23,7 @@ events:
   - month: "January"
     day: "22"
     day-of-week: "Thursday"
-    topic: Introduction to Vectorization + Data Visualization
+    topic: "Introduction to Vectorization + Data Visualization [[slides](https://docs.google.com/presentation/d/1CiJPbM1_ECtQjgLQtR5o3Cy16kTCnH0rNyvSM20RaYA/edit?usp=sharing)]"
     due:
     released:
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
