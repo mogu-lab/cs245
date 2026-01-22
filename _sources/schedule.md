@@ -53,7 +53,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Introduction to Vectorization + Data Visualization</span>
+            <span>Introduction to Vectorization + Data Visualization [<a href="https://docs.google.com/presentation/d/1CiJPbM1_ECtQjgLQtR5o3Cy16kTCnH0rNyvSM20RaYA/edit?usp=sharing">slides</a>]</span>
           </li>
           <li>
             <span class="tag preclass_tag">Pre-Class:</span>
