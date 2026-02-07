@@ -116,7 +116,11 @@ events:
     topic:
     due: 
     released:
-    exam: "Midterm I"
+    exam: "Midterm I (everything before MLE)"
+    pre-class: | 
+    * Review [this list of topics](https://docs.google.com/document/d/10mfycPAzPpOduzX_nthVSfCyOKAw8ytgq9XNDSG7p3M/edit?usp=sharing)
+    * Answer [these practice questions](https://drive.google.com/file/d/1EvvBGzU_RNq7kiguiOE4OU8kkdBZ-4s3/view?usp=share_link)
+    * Compare your answer with [these solutions](* Answer [practice questions](https://drive.google.com/file/d/19RsY3hI-BoSDxxH6TZ92asaLJH0wMs4C/view?usp=share_link))
 
   - month: "February"
     day: "19"
