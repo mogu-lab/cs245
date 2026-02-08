@@ -229,7 +229,7 @@ We may adapt the course schedule to accomodate your learning!
             <span><ul>
 <li>Review <a href="https://docs.google.com/document/d/10mfycPAzPpOduzX_nthVSfCyOKAw8ytgq9XNDSG7p3M/edit?usp=sharing">this list of topics</a></li>
 <li>Answer <a href="https://drive.google.com/file/d/1EvvBGzU_RNq7kiguiOE4OU8kkdBZ-4s3/view?usp=share_link">these practice questions</a></li>
-<li>Compare your answer with <a href="* Answer [practice questions](https://drive.google.com/file/d/19RsY3hI-BoSDxxH6TZ92asaLJH0wMs4C/view?usp=share_link)">these solutions</a></li>
+<li>Compare your answer with <a href="https://drive.google.com/file/d/19RsY3hI-BoSDxxH6TZ92asaLJH0wMs4C/view?usp=share_link">these solutions</a></li>
 </ul></span>
           </li>
           <li>
