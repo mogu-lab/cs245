@@ -697,7 +697,12 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday readingperiod">
         <span class="date_label date_label_day">07</span>
         <span class="date_label date_label_month">May</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag exam_tag">Exam:</span>
+            <span>Final Exam on Friday May 8, 9-11:30am @ PNE-127</span>
+          </li>
+        </ul>
       </td>
     </tr>
   </tbody>
