@@ -187,7 +187,11 @@ events:
   - month: "March"
     day: "11"
     day-of-week: "Wednesday"
-    exam: "Midterm II"
+    exam: "Midterm II (everything up to and including MLE)"
+    pre-class: | 
+      * Review [this list of topics](https://docs.google.com/document/d/1eQa9T4zvyFXoDM0lRdbbhdl7mBOjIRMG3ke8OQVc-4A/edit?usp=sharing)
+      * Answer [these practice questions](https://drive.google.com/file/d/1WrHfzwdvcry_RTPTamatI7pxRZRzID_h/view?usp=share_link)
+      * Compare your answer with [these solutions](https://drive.google.com/file/d/1Sy8-iwzOH5CrqusphJpWXmkJszOU5pD0/view?usp=share_link)
 
   - month: "March"
     day: "12"
