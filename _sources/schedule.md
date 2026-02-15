@@ -357,8 +357,16 @@ We may adapt the course schedule to accomodate your learning!
         <span class="date_label date_label_month">March</span>
         <ul class="day_agenda">
           <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span><ul>
+<li>Review <a href="https://docs.google.com/document/d/1eQa9T4zvyFXoDM0lRdbbhdl7mBOjIRMG3ke8OQVc-4A/edit?usp=sharing">this list of topics</a></li>
+<li>Answer <a href="https://drive.google.com/file/d/1WrHfzwdvcry_RTPTamatI7pxRZRzID_h/view?usp=share_link">these practice questions</a></li>
+<li>Compare your answer with <a href="https://drive.google.com/file/d/1Sy8-iwzOH5CrqusphJpWXmkJszOU5pD0/view?usp=share_link">these solutions</a></li>
+</ul></span>
+          </li>
+          <li>
             <span class="tag exam_tag">Exam:</span>
-            <span>Midterm II</span>
+            <span>Midterm II (everything up to and including MLE)</span>
           </li>
         </ul>
       </td>
