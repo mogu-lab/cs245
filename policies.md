@@ -109,7 +109,9 @@ Recall that the minimum grade to earn credit under credit/no credit grading is C
 
 ## Email Policy
 
-In general, answering homework questions over email is challenging---it require much more time and effort than answering the same question during office hours. As such, please ask the course staff homework questions during office hours. Of course, if there are extenuating circumstances (e.g. family emergency causing you to leave campus, sickness, etc.), you can email us with your homework questions. 
+**Homework Help Via Email.** In general, answering homework questions over email is challenging---it require much more time and effort than answering the same question during office hours. As such, please ask the course staff homework questions during office hours. Of course, if there are extenuating circumstances (e.g. family emergency causing you to leave campus, sickness, etc.), you can email us with your homework questions. 
+
+**Generative AI.** It's easy for us to know when you've used Generative AI to write emails to us. We would much rather hear your own, authentic voice, so we ask that you please **don't** use these tools.
 
 
 ## Equipment
