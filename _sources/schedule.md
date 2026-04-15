@@ -707,6 +707,12 @@ We may adapt the course schedule to accomodate your learning!
         <span class="date_label date_label_month">May</span>
         <ul class="day_agenda">
           <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span><ul>
+<li>Review <a href="https://docs.google.com/document/d/1lewDZm4kyhw4ql556WXPdrP_fBXuI8d5j9ONep7GzQI/edit?usp=sharing">this list of topics</a></li>
+</ul></span>
+          </li>
+          <li>
             <span class="tag exam_tag">Exam:</span>
             <span>Final Exam on Friday May 8, 9-11:30am @ PNE-127</span>
           </li>
