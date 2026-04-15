@@ -401,7 +401,8 @@ events:
     topic:
     due:
     released:
-    pre-class:
+    pre-class: | 
+      * Review [this list of topics](https://docs.google.com/document/d/1lewDZm4kyhw4ql556WXPdrP_fBXuI8d5j9ONep7GzQI/edit?usp=sharing)
     class-meetings-over: true
     exam: "Final Exam on Friday May 8, 9-11:30am @ PNE-127"
 
