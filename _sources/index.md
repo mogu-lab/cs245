@@ -1,4 +1,4 @@
-# Probabilistic Foundations of Predictive ML
+# Probabilistic Foundations of ML
 
 ```{admonition} Important Update!
 :class: danger
