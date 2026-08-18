@@ -649,10 +649,6 @@ We may adapt the course schedule to accomodate your learning!
 <li>Answer the corresponding questions to prepare for class discussions.</li>
 </ul></span>
           </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW11 (A+B+C) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkzjenfEt2ou8KFrlTrpqHgdH66KyKMXcvOIc9BTpJ3DHyWA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
-          </li>
         </ul>
       </td>
       <td class="normalday">
@@ -669,6 +665,10 @@ We may adapt the course schedule to accomodate your learning!
 <li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
 <li>Answer the corresponding questions to prepare for class discussions.</li>
 </ul></span>
+          </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW11 (A+B+C) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkzjenfEt2ou8KFrlTrpqHgdH66KyKMXcvOIc9BTpJ3DHyWA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
           </li>
         </ul>
       </td>
