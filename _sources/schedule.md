@@ -187,16 +187,6 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-        </ul>
-      </td>
-      <td class="normalday">
-        <span class="date_label date_label_day">24</span>
-        <span class="date_label date_label_month">September</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
             <span>Midterm Review</span>
           </li>
           <li>
@@ -208,10 +198,8 @@ We may adapt the course schedule to accomodate your learning!
           </li>
         </ul>
       </td>
-    </tr>
-    <tr class="col_headers light_row">
       <td class="normalday">
-        <span class="date_label date_label_day">28</span>
+        <span class="date_label date_label_day">24</span>
         <span class="date_label date_label_month">September</span>
         <ul class="day_agenda">
           <li>
@@ -228,8 +216,10 @@ We may adapt the course schedule to accomodate your learning!
           </li>
         </ul>
       </td>
+    </tr>
+    <tr class="col_headers light_row">
       <td class="normalday">
-        <span class="date_label date_label_day">30</span>
+        <span class="date_label date_label_day">28</span>
         <span class="date_label date_label_month">September</span>
         <ul class="day_agenda">
           <li>
@@ -242,9 +232,9 @@ We may adapt the course schedule to accomodate your learning!
           </li>
         </ul>
       </td>
-      <td class="normalday new_month">
-        <span class="date_label date_label_day">01</span>
-        <span class="date_label date_label_month">October</span>
+      <td class="normalday">
+        <span class="date_label date_label_day">30</span>
+        <span class="date_label date_label_month">September</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -252,10 +242,8 @@ We may adapt the course schedule to accomodate your learning!
           </li>
         </ul>
       </td>
-    </tr>
-    <tr class="col_headers light_row">
-      <td class="normalday">
-        <span class="date_label date_label_day">05</span>
+      <td class="normalday new_month">
+        <span class="date_label date_label_day">01</span>
         <span class="date_label date_label_month">October</span>
         <ul class="day_agenda">
           <li>
@@ -276,13 +264,24 @@ We may adapt the course schedule to accomodate your learning!
           </li>
         </ul>
       </td>
+    </tr>
+    <tr class="col_headers light_row">
+      <td class="normalday">
+        <span class="date_label date_label_day">05</span>
+        <span class="date_label date_label_month">October</span>
+        <ul class="day_agenda"></ul>
+      </td>
       <td class="normalday">
         <span class="date_label date_label_day">07</span>
         <span class="date_label date_label_month">October</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>Optimization [<a href="https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
         </ul>
       </td>
@@ -369,7 +368,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Optimization [<a href="https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link">slides</a>]</span>
+            <span>Probability (Continuous) [<a href="https://docs.google.com/presentation/d/1TjmwQhPNnqNWbjYMrYTZe1cNokm8D0IEt8hUsKLTSXg/edit?usp=share_link">slides</a>]</span>
           </li>
           <li>
             <span class="tag preclass_tag">Pre-Class:</span>
@@ -383,28 +382,12 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Probability (Continuous) [<a href="https://docs.google.com/presentation/d/1TjmwQhPNnqNWbjYMrYTZe1cNokm8D0IEt8hUsKLTSXg/edit?usp=share_link">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+            <span>Lab</span>
           </li>
         </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">22</span>
-        <span class="date_label date_label_month">October</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr class="col_headers light_row">
-      <td class="normalday">
-        <span class="date_label date_label_day">26</span>
         <span class="date_label date_label_month">October</span>
         <ul class="day_agenda">
           <li>
@@ -425,6 +408,13 @@ We may adapt the course schedule to accomodate your learning!
           </li>
         </ul>
       </td>
+    </tr>
+    <tr class="col_headers light_row">
+      <td class="normalday">
+        <span class="date_label date_label_day">26</span>
+        <span class="date_label date_label_month">October</span>
+        <ul class="day_agenda"></ul>
+      </td>
       <td class="normalday">
         <span class="date_label date_label_day">28</span>
         <span class="date_label date_label_month">October</span>
@@ -441,18 +431,6 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr class="col_headers light_row">
-      <td class="normalday new_month">
-        <span class="date_label date_label_day">02</span>
-        <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
             <span>Classification [<a href="https://docs.google.com/presentation/d/17ret7jhZ_SCJ55jN3pxYJ9uZCnngrsgWqrlhbnj9kyE/edit?usp=share_link">slides</a>]</span>
           </li>
           <li>
@@ -466,6 +444,18 @@ We may adapt the course schedule to accomodate your learning!
           <li>
             <span class="tag released_tag">Released:</span>
             <span>HW8</span>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr class="col_headers light_row">
+      <td class="normalday new_month">
+        <span class="date_label date_label_day">02</span>
+        <span class="date_label date_label_month">November</span>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
           </li>
         </ul>
       </td>
