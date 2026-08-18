@@ -186,7 +186,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>Special Topics</span>
           </li>
         </ul>
       </td>
@@ -441,11 +441,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Classification [<a href="https://docs.google.com/presentation/d/17ret7jhZ_SCJ55jN3pxYJ9uZCnngrsgWqrlhbnj9kyE/edit?usp=share_link">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+            <span>Lab</span>
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
@@ -465,7 +461,11 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>Classification [<a href="https://docs.google.com/presentation/d/17ret7jhZ_SCJ55jN3pxYJ9uZCnngrsgWqrlhbnj9kyE/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
         </ul>
       </td>
@@ -485,11 +485,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Neural Networks [<a href="https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+            <span>Lab</span>
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
@@ -509,7 +505,11 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>Neural Networks [<a href="https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
         </ul>
       </td>
@@ -529,11 +529,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Model Selection &amp; Evaluation [<a href="https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+            <span>Lab</span>
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
@@ -553,7 +549,11 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>Model Selection &amp; Evaluation [<a href="https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
         </ul>
       </td>
@@ -571,6 +571,10 @@ We may adapt the course schedule to accomodate your learning!
         <span class="date_label date_label_day">19</span>
         <span class="date_label date_label_month">November</span>
         <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
           <li>
             <span class="tag due_tag">Due:</span>
             <span>HW10 (A+B) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfcU3vvkDT7hRl3lzEr4na56UFz2zWUUJoRjvmDJbhbl-Sbqw/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
