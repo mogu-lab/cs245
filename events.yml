@@ -105,21 +105,17 @@ events:
   - month: "September"
     day: "28"
     day-of-week: "Monday"
-    topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
-
-  - month: "September"
-    day: "30"
-    day-of-week: "Wednesday"
-    topic:
-    due:
-    released:
-    pre-class:
     exam: "Midterm I (everything before MLE)"
     pre-class: | 
       * Review [this list of topics](https://docs.google.com/document/d/10mfycPAzPpOduzX_nthVSfCyOKAw8ytgq9XNDSG7p3M/edit?usp=sharing)
       * Answer [these practice questions](https://drive.google.com/file/d/1EvvBGzU_RNq7kiguiOE4OU8kkdBZ-4s3/view?usp=share_link)
       * Compare your answer with [these solutions](https://drive.google.com/file/d/19RsY3hI-BoSDxxH6TZ92asaLJH0wMs4C/view?usp=share_link)
+    
+  - month: "September"
+    day: "30"
+    day-of-week: "Wednesday
+    topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "October"
     day: "01"
@@ -132,23 +128,25 @@ events:
   - month: "October"
     day: "05"
     day-of-week: "Monday"
-    topic: "Lab"
-    due:
-    released:
-    pre-class:
+    topic: "Optimization [[slides](https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link)]"
+    released: 
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "October"
     day: "07"
     day-of-week: "Wednesday"
-    topic: "Optimization [[slides](https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link)]"
-    released: "HW6"
+    topic: "Probability (Continuous) [[slides](https://docs.google.com/presentation/d/1TjmwQhPNnqNWbjYMrYTZe1cNokm8D0IEt8hUsKLTSXg/edit?usp=share_link)]"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "October"
     day: "08"
     day-of-week: "Thursday"
-    topic: "Probability (Continuous) [[slides](https://docs.google.com/presentation/d/1TjmwQhPNnqNWbjYMrYTZe1cNokm8D0IEt8hUsKLTSXg/edit?usp=share_link)]"
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
+    topic: "The Ethics of Learning from Data [[slides](https://docs.google.com/presentation/d/1YgdwT-NXqsn0kbK8Gvc8Lsp33QeqVeLYVxzruwdmsIU/edit?usp=share_link)]"
+    released:
+    pre-class: |
+      * Complete **all readings** listed in the corresponding chapter.
+      * Answer the corresponding questions to prepare for class discussions.
+
 
   - month: "October"
     day: "12"
@@ -162,21 +160,15 @@ events:
   - month: "October"
     day: "14"
     day-of-week: "Wednesday"
+
+  - month: "October"
+    day: "15"
+    day-of-week: "Thursday"
     exam: "Midterm II (everything up to and including MLE)"
     pre-class: | 
       * Review [this list of topics](https://docs.google.com/document/d/1eQa9T4zvyFXoDM0lRdbbhdl7mBOjIRMG3ke8OQVc-4A/edit?usp=sharing)
       * Answer [these practice questions](https://drive.google.com/file/d/1WrHfzwdvcry_RTPTamatI7pxRZRzID_h/view?usp=share_link)
       * Compare your answer with [these solutions](https://drive.google.com/file/d/1Sy8-iwzOH5CrqusphJpWXmkJszOU5pD0/view?usp=share_link)
-
-  - month: "October"
-    day: "15"
-    day-of-week: "Thursday"
-    topic: "The Ethics of Learning from Data [[slides](https://docs.google.com/presentation/d/1YgdwT-NXqsn0kbK8Gvc8Lsp33QeqVeLYVxzruwdmsIU/edit?usp=share_link)]"
-    released:
-    pre-class: |
-      * Complete **all readings** listed in the corresponding chapter.
-      * Answer the corresponding questions to prepare for class discussions.
-    due: "HW8 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfTO6cY1s3Hs-ZWwxQTTIQFVifuH_c4Mt_kp2hObi1lcNY-XA/viewform?usp=publish-editor) by 10pm"
 
   - month: "October"
     day: "19"
@@ -283,7 +275,7 @@ events:
   - month: "November"
     day: "23"
     day-of-week: "Monday"
-    topic: "Lab"
+    topic: "Class Cancelled."
     due:
     released:
     pre-class:
