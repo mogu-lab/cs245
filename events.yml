@@ -181,14 +181,14 @@ events:
     day: "22"
     day-of-week: "Thursday"
     topic: "Lab"
+    released: "HW7"
+    due: "HW6 (A+B+C) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLScnmCIxqM922hz3vmB4k8Pbwk_k3XmisCNDFSk9_h5K-wJtEA/viewform?usp=publish-editor) by 10pm"
 
   - month: "October"
     day: "26"
     day-of-week: "Monday"
     topic: "Regression [[slides](https://docs.google.com/presentation/d/1SWmIccvKGUJq5B-ZtT7LcNvg-4fU7zgp6PUhTAr27gg/edit?usp=share_link)]"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
-    released: "HW7"
-    due: "HW6 (A+B+C) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLScnmCIxqM922hz3vmB4k8Pbwk_k3XmisCNDFSk9_h5K-wJtEA/viewform?usp=publish-editor) by 10pm"
 
   - month: "October"
     day: "28"
