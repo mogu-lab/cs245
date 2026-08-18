@@ -82,7 +82,7 @@ events:
   - month: "September"
     day: "23"
     day-of-week: "Wednesday"
-    topic: "Lab"
+    topic: "Special Topics"
 
   - month: "September"
     day: "24"
@@ -198,17 +198,15 @@ events:
   - month: "October"
     day: "29"
     day-of-week: "Thursday"
-    topic: "Classification [[slides](https://docs.google.com/presentation/d/17ret7jhZ_SCJ55jN3pxYJ9uZCnngrsgWqrlhbnj9kyE/edit?usp=share_link)]"
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."    
+    topic: "Lab"    
     released: "HW8"
     due: "HW7 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdAjWxYms_BbFVpcSZWudatyTjLWYhPIK1cuaGb7dgzByPMkw/viewform?usp=publish-editor) by 10pm"
 
   - month: "November"
     day: "02"
     day-of-week: "Monday"
-    topic: "Lab"
-    released: 
-    pre-class:
+    topic: "Classification [[slides](https://docs.google.com/presentation/d/17ret7jhZ_SCJ55jN3pxYJ9uZCnngrsgWqrlhbnj9kyE/edit?usp=share_link)]"
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."        
 
   - month: "November"
     day: "04"
@@ -218,18 +216,15 @@ events:
   - month: "November"
     day: "05"
     day-of-week: "Thursday"
-    topic: "Neural Networks [[slides](https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link)]"    
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."    
+    topic: "Lab"    
     released: "HW9"
     due: "HW8 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfTO6cY1s3Hs-ZWwxQTTIQFVifuH_c4Mt_kp2hObi1lcNY-XA/viewform?usp=publish-editor) by 10pm"
 
   - month: "November"
     day: "09"
     day-of-week: "Monday"
-    topic: "Lab"
-    due:
-    released:
-    pre-class:
+    topic: "Neural Networks [[slides](https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link)]"    
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."    
 
   - month: "November"
     day: "11"
@@ -239,16 +234,16 @@ events:
   - month: "November"
     day: "12"
     day-of-week: "Thursday"
-    topic: "Model Selection & Evaluation [[slides](https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link)]"
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."    
+    topic: "Lab"    
     due: "HW9 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSctMtoF18KE17YyzyiP0_dmAl374ovbib1m8Gj2hRprrlP9Ew/viewform?usp=publish-editor) by 10pm"
     released: "HW10"
 
   - month: "November"
     day: "16"
     day-of-week: "Monday"
-    topic: "Lab"
-
+    topic: "Model Selection & Evaluation [[slides](https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link)]"
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."    
+    
   - month: "November"
     day: "18"
     day-of-week: "Wednesday"
@@ -257,7 +252,7 @@ events:
   - month: "November"
     day: "19"
     day-of-week: "Thursday"
-    topic: 
+    topic: "Lab"
     pre-class:
     due: "HW10 (A+B) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfcU3vvkDT7hRl3lzEr4na56UFz2zWUUJoRjvmDJbhbl-Sbqw/viewform?usp=publish-editor) by 10pm"
     released: "HW11"
