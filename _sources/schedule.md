@@ -320,10 +320,6 @@ We may adapt the course schedule to accomodate your learning!
           <li>
             <span class="day_note">Indigenous Peoples' Day: no classes.</span>
           </li>
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
         </ul>
       </td>
       <td class="normalday">
