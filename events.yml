@@ -208,9 +208,7 @@ events:
   - month: "October"
     day: "29"
     day-of-week: "Thursday"
-    topic: "Neural Networks [[slides](https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link)]"
     released: "HW8"
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
     due: "HW7 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdAjWxYms_BbFVpcSZWudatyTjLWYhPIK1cuaGb7dgzByPMkw/viewform?usp=publish-editor) by 10pm"
 
   - month: "November"
@@ -223,17 +221,13 @@ events:
   - month: "November"
     day: "04"
     day-of-week: "Wednesday"
-    topic: "Model Selection & Evaluation [[slides](https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link)]"
-    due:
-    released:
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "November"
     day: "05"
     day-of-week: "Thursday"
-    topic:
+    topic: "Neural Networks [[slides](https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link)]"    
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."    
     released: "HW9"
-    pre-class:
     due: "HW8 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfTO6cY1s3Hs-ZWwxQTTIQFVifuH_c4Mt_kp2hObi1lcNY-XA/viewform?usp=publish-editor) by 10pm"
 
   - month: "November"
@@ -251,6 +245,8 @@ events:
   - month: "November"
     day: "12"
     day-of-week: "Thursday"
+    topic: "Model Selection & Evaluation [[slides](https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link)]"
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."    
     due: "HW9 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSctMtoF18KE17YyzyiP0_dmAl374ovbib1m8Gj2hRprrlP9Ew/viewform?usp=publish-editor) by 10pm"
     released: "HW10"
 
