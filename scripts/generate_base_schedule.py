@@ -3,27 +3,21 @@ import datetime
 
 CLASS_DAYS = ['Monday', 'Wednesday', 'Thursday']
 DISPLAY_DAYS = CLASS_DAYS
-#DISPLAY_DAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
-
 
 SPECIAL_DATES = [
-    (datetime.datetime(2026, 1, 19), 'Martin Luther King Jr. Day: no classes'),
-    (datetime.datetime(2026, 2, 16), 'President\'s Day: no classes'),
-    (datetime.datetime(2026, 2, 17), 'Substitute Day: Monday Schedule'),
-    (datetime.datetime(2026, 3, 16), 'Spring Break: no classes'),
-    (datetime.datetime(2026, 3, 17), 'Spring Break: no classes'),
-    (datetime.datetime(2026, 3, 18), 'Spring Break: no classes'),
-    (datetime.datetime(2026, 3, 19), 'Spring Break: no classes'),
-    (datetime.datetime(2026, 3, 20), 'Spring Break: no classes'),
-    (datetime.datetime(2026, 4, 15), 'Ruhlman Conference: no classes'),
-    (datetime.datetime(2026, 4, 20), 'Patriot\'s Day: no classes'),
-    (datetime.datetime(2026, 4, 30), 'Substitute Day: Monday Schedule'),
-    (datetime.datetime(2026, 5, 1), 'Reading Period Begins.'),
-    (datetime.datetime(2026, 5, 5), 'Final Exam Period Begins.'),
+    (datetime.datetime(2026, 9, 7), 'Labor Day: no classes.'),    
+    (datetime.datetime(2026, 10, 12), 'Indigenous Peoples\' Day: no classes.'),
+    (datetime.datetime(2026, 10, 13), 'Fall Break: no classes.'),
+    (datetime.datetime(2026, 10, 27), 'Tanner Conference: no classes.'),
+    (datetime.datetime(2026, 11, 25), 'Thanksgiving Break: no classes.'),    
+    (datetime.datetime(2026, 11, 26), 'Thanksgiving Break: no classes.'),    
+    (datetime.datetime(2026, 11, 27), 'Thanksgiving Break: no classes.'),    
+    (datetime.datetime(2026, 12, 10), 'Reading Period Begins.'),    
+    (datetime.datetime(2026, 12, 14), 'Final Exam Period Begins.'),    
 ]
 
 
-READING_PERIOD_START = datetime.datetime(2026, 5, 1)
+READING_PERIOD_START = datetime.datetime(2026, 12, 10)
 
 
 def is_date_special(current):
@@ -35,8 +29,8 @@ def is_date_special(current):
 
 
 def generate_yml_calendar():
-    course_start = datetime.datetime(2026, 1, 19)
-    course_end = datetime.datetime(2026, 5, 8)
+    course_start = datetime.datetime(2026, 8, 31)
+    course_end = datetime.datetime(2026, 12, 17)
 
     start = course_start - datetime.timedelta(days=course_start.weekday())
     end = course_end + datetime.timedelta(days=6 - course_end.weekday())
