@@ -89,10 +89,6 @@ We may adapt the course schedule to accomodate your learning!
             <span class="tag topic_tag">Topic:</span>
             <span>Lab</span>
           </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>HW2</span>
-          </li>
         </ul>
       </td>
       <td class="normalday">
@@ -250,10 +246,6 @@ We may adapt the course schedule to accomodate your learning!
           <li>
             <span class="tag due_tag">Due:</span>
             <span>HW4 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSchGpCvR9mMz1Atm9N9PYkPdnCdTAW7feHPNupcjPvpK0tkgA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
-          </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>HW5</span>
           </li>
         </ul>
       </td>
@@ -485,10 +477,6 @@ We may adapt the course schedule to accomodate your learning!
             <span class="tag due_tag">Due:</span>
             <span>HW9 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSctMtoF18KE17YyzyiP0_dmAl374ovbib1m8Gj2hRprrlP9Ew/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
           </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>HW10</span>
-          </li>
         </ul>
       </td>
     </tr>
@@ -528,14 +516,28 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday">
         <span class="date_label date_label_day">19</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW10 (A+B) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfcU3vvkDT7hRl3lzEr4na56UFz2zWUUJoRjvmDJbhbl-Sbqw/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW11</span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
       <td class="normalday">
         <span class="date_label date_label_day">23</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
       <td class="holiday">
         <span class="date_label date_label_day">25</span>
@@ -564,14 +566,6 @@ We may adapt the course schedule to accomodate your learning!
           <li>
             <span class="tag topic_tag">Topic:</span>
             <span>Lab or Special Topics</span>
-          </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW10 (A+B) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfcU3vvkDT7hRl3lzEr4na56UFz2zWUUJoRjvmDJbhbl-Sbqw/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
-          </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>HW11</span>
           </li>
         </ul>
       </td>
@@ -607,6 +601,10 @@ We may adapt the course schedule to accomodate your learning!
 <li>Answer the corresponding questions to prepare for class discussions.</li>
 </ul></span>
           </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW11 (A+B+C) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkzjenfEt2ou8KFrlTrpqHgdH66KyKMXcvOIc9BTpJ3DHyWA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+          </li>
         </ul>
       </td>
     </tr>
@@ -625,10 +623,6 @@ We may adapt the course schedule to accomodate your learning!
 <li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
 <li>Answer the corresponding questions to prepare for class discussions.</li>
 </ul></span>
-          </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW11 (A+B+C) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkzjenfEt2ou8KFrlTrpqHgdH66KyKMXcvOIc9BTpJ3DHyWA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
           </li>
         </ul>
       </td>
