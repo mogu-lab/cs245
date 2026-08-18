@@ -250,6 +250,14 @@ We may adapt the course schedule to accomodate your learning!
             <span class="tag topic_tag">Topic:</span>
             <span>Lab</span>
           </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW4 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSchGpCvR9mMz1Atm9N9PYkPdnCdTAW7feHPNupcjPvpK0tkgA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW5</span>
+          </li>
         </ul>
       </td>
     </tr>
@@ -265,14 +273,6 @@ We may adapt the course schedule to accomodate your learning!
           <li>
             <span class="tag preclass_tag">Pre-Class:</span>
             <span>Read corresponding chapter; prepare questions to ask in class.</span>
-          </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW4 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSchGpCvR9mMz1Atm9N9PYkPdnCdTAW7feHPNupcjPvpK0tkgA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
-          </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>HW5</span>
           </li>
         </ul>
       </td>
