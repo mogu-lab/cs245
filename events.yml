@@ -104,8 +104,6 @@ events:
     day: "01"
     day-of-week: "Thursday"
     topic: "The Ethics of Data [[slides](https://docs.google.com/presentation/d/1z0btRmPqJo_LcLET1Q3F8yuas1U7E3hldJE8TYC6MbY/edit?usp=sharing)]"
-    due:
-    released:
     pre-class: |
       * Read the "Community Guidelines for Ethics Discussions," under "Goals and Expectations."
       * Complete **all readings** listed in the corresponding chapter.
