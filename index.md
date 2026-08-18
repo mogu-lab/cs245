@@ -3,7 +3,7 @@
 ```{admonition} Notice!
 :class: warning
 We're working to **expand** the ML offerings at Wellesley with the introduction of this **new course**, CS245, in the Spring of 2026. This course will cover a portion of the topics currently covered by [CS345](https://mogu-lab.github.io/cs345/), allowing us to expand the topics covered by CS345. Assuming everything goes according to plan, please anticipate that,
-1. CS345 will be **different** in the Fall of 2026.
+1. CS345 will be **different** in the Spring of 2026.
 2. CS345 will require CS245 as its **only prerequisite**.
 ```
 
@@ -26,10 +26,10 @@ Looking to learn more about the design of this course? Check out our [recent pap
 
 **Meeting Times:**
 * Mondays 2:20-3:35pm
-* Wednesdays 1:30-2:45pm
+* Wednesdays 2:30-4:45pm
 * Thursdays 2:20-3:35pm
 
-**Location:** SCI N207
+**Location:** SCI L047
 
 **Distributions:** Data Literacy, and Mathematical Modeling and Problem Solving.
 
