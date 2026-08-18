@@ -114,13 +114,13 @@ events:
     day: "01"
     day-of-week: "Thursday"    
     topic: "Lab"
+    due: "HW4 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSchGpCvR9mMz1Atm9N9PYkPdnCdTAW7feHPNupcjPvpK0tkgA/viewform?usp=publish-editor) by 10pm"
+    released: "HW5"
     
   - month: "October"
     day: "05"
     day-of-week: "Monday"
     topic: "Maximum Likelihood: Code [[slides](https://docs.google.com/presentation/d/1_YuhMoViySureG068w36mS3DeIQisadTlxRUKHdONN0/edit?usp=sharing)]"
-    due: "HW4 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSchGpCvR9mMz1Atm9N9PYkPdnCdTAW7feHPNupcjPvpK0tkgA/viewform?usp=publish-editor) by 10pm"
-    released: "HW5"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "October"
