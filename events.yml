@@ -61,26 +61,26 @@ events:
   - month: "September"
     day: "16"
     day-of-week: "Wednesday"
-    topic: "Lab"
-    due:
-    released:
-    pre-class:
-
+    topic: "Joint Probability (Discrete) [[slides](https://docs.google.com/presentation/d/1RI11DaA9UwM0EOBiEURUoI2W-9Gd5RUwhJAIi4eolNs/edit?usp=sharing)]"
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
+    
   - month: "September"
     day: "17"
     day-of-week: "Thursday"
-    topic: "Joint Probability (Discrete) [[slides](https://docs.google.com/presentation/d/1RI11DaA9UwM0EOBiEURUoI2W-9Gd5RUwhJAIi4eolNs/edit?usp=sharing)]"
+    topic: "Lab"
     due: "HW3 (A+B) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfIRI-lyBsB765rCQ8xnKgIb-adD3K7oWkuyIUS9mAIaLFa3w/viewform?usp=publish-editor) by 10pm"    
     released: "HW4"
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "September"
     day: "21"
     day-of-week: "Monday"
-    topic: "Lab"
+    topic: "The Ethics of Data [[slides](https://docs.google.com/presentation/d/1z0btRmPqJo_LcLET1Q3F8yuas1U7E3hldJE8TYC6MbY/edit?usp=sharing)]"
     due:
     released:
-    pre-class:
+    pre-class: |
+      * Read the "Community Guidelines for Ethics Discussions," under "Goals and Expectations."
+      * Complete **all readings** listed in the corresponding chapter.
+      * Answer the corresponding questions to prepare for class discussions.
 
   - month: "September"
     day: "23"
@@ -101,20 +101,14 @@ events:
   - month: "September"
     day: "28"
     day-of-week: "Monday"
-    topic: "The Ethics of Data [[slides](https://docs.google.com/presentation/d/1z0btRmPqJo_LcLET1Q3F8yuas1U7E3hldJE8TYC6MbY/edit?usp=sharing)]"
-    due:
-    released:
-    pre-class: |
-      * Read the "Community Guidelines for Ethics Discussions," under "Goals and Expectations."
-      * Complete **all readings** listed in the corresponding chapter.
-      * Answer the corresponding questions to prepare for class discussions.
+    topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
     
   - month: "September"
     day: "30"
     day-of-week: "Wednesday"
-    topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
-
+    topic: "Lab"
+    
   - month: "October"
     day: "01"
     day-of-week: "Thursday"
