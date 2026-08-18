@@ -128,8 +128,6 @@ events:
   - month: "October"
     day: "07"
     day-of-week: "Wednesday"
-    topic: "Probability (Continuous) [[slides](https://docs.google.com/presentation/d/1TjmwQhPNnqNWbjYMrYTZe1cNokm8D0IEt8hUsKLTSXg/edit?usp=share_link)]"
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "October"
     day: "08"
@@ -170,9 +168,7 @@ events:
   - month: "October"
     day: "19"
     day-of-week: "Monday"
-    topic: "Regression [[slides](https://docs.google.com/presentation/d/1SWmIccvKGUJq5B-ZtT7LcNvg-4fU7zgp6PUhTAr27gg/edit?usp=share_link)]"
-    due: 
-    released: 
+    topic: "Probability (Continuous) [[slides](https://docs.google.com/presentation/d/1TjmwQhPNnqNWbjYMrYTZe1cNokm8D0IEt8hUsKLTSXg/edit?usp=share_link)]"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "October"
@@ -185,19 +181,14 @@ events:
   - month: "October"
     day: "22"
     day-of-week: "Thursday"
-    topic: "Lab"
-    due:
+    topic: "Regression [[slides](https://docs.google.com/presentation/d/1SWmIccvKGUJq5B-ZtT7LcNvg-4fU7zgp6PUhTAr27gg/edit?usp=share_link)]"
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
     released: "HW7"
-    pre-class:
     due: "HW6 (A+B+C) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLScnmCIxqM922hz3vmB4k8Pbwk_k3XmisCNDFSk9_h5K-wJtEA/viewform?usp=publish-editor) by 10pm"
 
   - month: "October"
     day: "26"
     day-of-week: "Monday"
-    topic: "Classification [[slides](https://docs.google.com/presentation/d/17ret7jhZ_SCJ55jN3pxYJ9uZCnngrsgWqrlhbnj9kyE/edit?usp=share_link)]"
-    due:
-    released:
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "October"
     day: "28"
@@ -208,6 +199,8 @@ events:
   - month: "October"
     day: "29"
     day-of-week: "Thursday"
+    topic: "Classification [[slides](https://docs.google.com/presentation/d/17ret7jhZ_SCJ55jN3pxYJ9uZCnngrsgWqrlhbnj9kyE/edit?usp=share_link)]"
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."    
     released: "HW8"
     due: "HW7 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdAjWxYms_BbFVpcSZWudatyTjLWYhPIK1cuaGb7dgzByPMkw/viewform?usp=publish-editor) by 10pm"
 
@@ -295,12 +288,6 @@ events:
   - month: "November"
     day: "30"
     day-of-week: "Monday"
-    topic: "Special Topics"
-    released: 
-
-  - month: "December"
-    day: "02"
-    day-of-week: "Wednesday"
     topic: "The Ethics of Predictive Models in Sociotechnical Systems [[slides](https://docs.google.com/presentation/d/11kIDf1jBUrAMD1xwlOyFObriPbxTzMvJSJ1vUXSFjig/edit?usp=share_link)]"
     due: 
     pre-class: |
@@ -308,8 +295,8 @@ events:
       * Answer the corresponding questions to prepare for class discussions.
 
   - month: "December"
-    day: "03"
-    day-of-week: "Thursday"
+    day: "02"
+    day-of-week: "Wednesday"
     topic: "The Ethics of Machine Learning: A View from History (Part 1) [[slides](https://docs.google.com/presentation/d/14Cjr83OxHSLiav-eI9DsIi7R1pZ5V0l6j_ZEXwRI5Mg/edit?usp=share_link)]"
     due: "HW11 (A+B+C) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdkzjenfEt2ou8KFrlTrpqHgdH66KyKMXcvOIc9BTpJ3DHyWA/viewform?usp=publish-editor) by 10pm"
     released:
@@ -318,13 +305,18 @@ events:
       * Answer the corresponding questions to prepare for class discussions.
 
   - month: "December"
-    day: "07"
-    day-of-week: "Monday"
+    day: "03"
+    day-of-week: "Thursday"
     topic: "The Ethics of Machine Learning: A View from History (Part 2) [[slides](https://docs.google.com/presentation/d/1Jig99jUkXXvvfEIr1fihabVAhXdoEpc5WrOglQzhSoc/edit?slide=id.p#slide=id.p)]"
     released:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
       * Answer the corresponding questions to prepare for class discussions.
+
+  - month: "December"
+    day: "07"
+    day-of-week: "Monday"
+    topic: "Special Topics"
 
   - month: "December"
     day: "09"
