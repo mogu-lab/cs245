@@ -303,7 +303,7 @@ We may adapt the course schedule to accomodate your learning!
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>HW5 (A+B) by 9pm on Gradescope, and <a href="TODO">this reflection</a> by 10pm</span>
+            <span>HW5 (A+B) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFL7YFkXj9EkDAZcklxl0RDRmkO_Mn1E_lnjhD6AgmtziXUw/viewform?usp=dialog">this reflection</a> by 10pm</span>
           </li>
           <li>
             <span class="tag released_tag">Released:</span>
