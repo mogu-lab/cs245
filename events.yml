@@ -40,7 +40,7 @@ events:
     day: "09"
     day-of-week: "Wednesday"
     topic: "Lab"
-    released: "HW2"
+    released: 
     pre-class:
 
   - month: "September"
@@ -126,7 +126,7 @@ events:
     day-of-week: "Thursday"
     topic: "Maximum Likelihood: Code [[slides](https://docs.google.com/presentation/d/1_YuhMoViySureG068w36mS3DeIQisadTlxRUKHdONN0/edit?usp=sharing)]"
     due: "HW4 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSchGpCvR9mMz1Atm9N9PYkPdnCdTAW7feHPNupcjPvpK0tkgA/viewform?usp=publish-editor) by 10pm"
-    released: "HW5"
+    released: 
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "October"
@@ -247,7 +247,7 @@ events:
     day-of-week: "Thursday"
     topic:
     due: "HW9 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSctMtoF18KE17YyzyiP0_dmAl374ovbib1m8Gj2hRprrlP9Ew/viewform?usp=publish-editor) by 10pm"
-    released: "HW10"
+    released: 
     pre-class:
 
   - month: "November"
@@ -278,14 +278,14 @@ events:
     day: "19"
     day-of-week: "Thursday"
     topic: 
-    due:
-    released:
     pre-class:
+    due: "HW10 (A+B) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfcU3vvkDT7hRl3lzEr4na56UFz2zWUUJoRjvmDJbhbl-Sbqw/viewform?usp=publish-editor) by 10pm"
+    released: "HW11"
 
   - month: "November"
     day: "23"
     day-of-week: "Monday"
-    topic:
+    topic: "Lab"
     due:
     released:
     pre-class:
@@ -312,8 +312,7 @@ events:
     day: "30"
     day-of-week: "Monday"
     topic: "Lab or Special Topics"
-    released: "HW11"
-    due: "HW10 (A+B) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfcU3vvkDT7hRl3lzEr4na56UFz2zWUUJoRjvmDJbhbl-Sbqw/viewform?usp=publish-editor) by 10pm"
+    released: 
 
   - month: "December"
     day: "02"
@@ -328,7 +327,7 @@ events:
     day: "03"
     day-of-week: "Thursday"
     topic: "The Ethics of Machine Learning: A View from History (Part 1) [[slides](https://docs.google.com/presentation/d/14Cjr83OxHSLiav-eI9DsIi7R1pZ5V0l6j_ZEXwRI5Mg/edit?usp=share_link)]"
-    due: 
+    due: "HW11 (A+B+C) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdkzjenfEt2ou8KFrlTrpqHgdH66KyKMXcvOIc9BTpJ3DHyWA/viewform?usp=publish-editor) by 10pm"
     released:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
@@ -338,7 +337,6 @@ events:
     day: "07"
     day-of-week: "Monday"
     topic: "The Ethics of Machine Learning: A View from History (Part 2) [[slides](https://docs.google.com/presentation/d/1Jig99jUkXXvvfEIr1fihabVAhXdoEpc5WrOglQzhSoc/edit?slide=id.p#slide=id.p)]"
-    due: "HW11 (A+B+C) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdkzjenfEt2ou8KFrlTrpqHgdH66KyKMXcvOIc9BTpJ3DHyWA/viewform?usp=publish-editor) by 10pm"
     released:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
