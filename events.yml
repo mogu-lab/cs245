@@ -74,21 +74,15 @@ events:
   - month: "September"
     day: "21"
     day-of-week: "Monday"
-    topic: "The Ethics of Data [[slides](https://docs.google.com/presentation/d/1z0btRmPqJo_LcLET1Q3F8yuas1U7E3hldJE8TYC6MbY/edit?usp=sharing)]"
-    due:
-    released:
-    pre-class: |
-      * Read the "Community Guidelines for Ethics Discussions," under "Goals and Expectations."
-      * Complete **all readings** listed in the corresponding chapter.
-      * Answer the corresponding questions to prepare for class discussions.
-
-  - month: "September"
-    day: "23"
-    day-of-week: "Wednesday"
     topic: "Midterm Review"
     pre-class: |
       * Attempt all of the practice questions.
       * Bring specific questions!
+    
+  - month: "September"
+    day: "23"
+    day-of-week: "Wednesday"
+    topic: "Lab"
 
   - month: "September"
     day: "24"
@@ -102,33 +96,38 @@ events:
   - month: "September"
     day: "28"
     day-of-week: "Monday"
-    topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
-    
+    topic: "The Ethics of Data [[slides](https://docs.google.com/presentation/d/1z0btRmPqJo_LcLET1Q3F8yuas1U7E3hldJE8TYC6MbY/edit?usp=sharing)]"
+    due:
+    released:
+    pre-class: |
+      * Read the "Community Guidelines for Ethics Discussions," under "Goals and Expectations."
+      * Complete **all readings** listed in the corresponding chapter.
+      * Answer the corresponding questions to prepare for class discussions.
+        
   - month: "September"
     day: "30"
     day-of-week: "Wednesday"
-    topic: "Lab"
+    topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
     
   - month: "October"
     day: "01"
-    day-of-week: "Thursday"
+    day-of-week: "Thursday"    
+    topic: "Lab"
+    
+  - month: "October"
+    day: "05"
+    day-of-week: "Monday"
     topic: "Maximum Likelihood: Code [[slides](https://docs.google.com/presentation/d/1_YuhMoViySureG068w36mS3DeIQisadTlxRUKHdONN0/edit?usp=sharing)]"
     due: "HW4 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSchGpCvR9mMz1Atm9N9PYkPdnCdTAW7feHPNupcjPvpK0tkgA/viewform?usp=publish-editor) by 10pm"
     released: "HW5"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "October"
-    day: "05"
-    day-of-week: "Monday"
-
-  - month: "October"
     day: "07"
     day-of-week: "Wednesday"
-    topic: "Optimization [[slides](https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link)]"
-    released: 
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
-
+    topic: "Lab"
+    
   - month: "October"
     day: "08"
     day-of-week: "Thursday"
@@ -168,33 +167,33 @@ events:
   - month: "October"
     day: "19"
     day-of-week: "Monday"
+    topic: "Optimization [[slides](https://docs.google.com/presentation/d/1kP46TPrzoM2itKM5hNKE18Kfl7P6eOsmltHCP2kA1qE/edit?usp=share_link)]"
+    released: 
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
+    
+  - month: "October"
+    day: "21"
+    day-of-week: "Wednesday"
     topic: "Probability (Continuous) [[slides](https://docs.google.com/presentation/d/1TjmwQhPNnqNWbjYMrYTZe1cNokm8D0IEt8hUsKLTSXg/edit?usp=share_link)]"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "October"
-    day: "21"
-    day-of-week: "Wednesday"
-    topic: "Lab"
-    released: 
-    pre-class: 
-
-  - month: "October"
     day: "22"
     day-of-week: "Thursday"
+    topic: "Lab"
+
+  - month: "October"
+    day: "26"
+    day-of-week: "Monday"
     topic: "Regression [[slides](https://docs.google.com/presentation/d/1SWmIccvKGUJq5B-ZtT7LcNvg-4fU7zgp6PUhTAr27gg/edit?usp=share_link)]"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
     released: "HW7"
     due: "HW6 (A+B+C) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLScnmCIxqM922hz3vmB4k8Pbwk_k3XmisCNDFSk9_h5K-wJtEA/viewform?usp=publish-editor) by 10pm"
 
   - month: "October"
-    day: "26"
-    day-of-week: "Monday"
-
-  - month: "October"
     day: "28"
     day-of-week: "Wednesday"
     topic: "Lab"
-    released: 
 
   - month: "October"
     day: "29"
