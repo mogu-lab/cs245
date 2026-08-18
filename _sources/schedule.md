@@ -187,7 +187,14 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>Midterm Review</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span><ul>
+<li>Attempt all of the practice questions.</li>
+<li>Bring specific questions!</li>
+</ul></span>
           </li>
         </ul>
       </td>
@@ -329,7 +336,14 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>Midterm Review</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span><ul>
+<li>Attempt all of the practice questions.</li>
+<li>Bring specific questions!</li>
+</ul></span>
           </li>
         </ul>
       </td>
