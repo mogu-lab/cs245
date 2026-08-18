@@ -94,6 +94,15 @@ events:
   - month: "September"
     day: "24"
     day-of-week: "Thursday"
+    exam: "Midterm I (everything before MLE)"
+    pre-class: | 
+      * Review [this list of topics](https://docs.google.com/document/d/10mfycPAzPpOduzX_nthVSfCyOKAw8ytgq9XNDSG7p3M/edit?usp=sharing)
+      * Answer [these practice questions](https://drive.google.com/file/d/1EvvBGzU_RNq7kiguiOE4OU8kkdBZ-4s3/view?usp=share_link)
+      * Compare your answer with [these solutions](https://drive.google.com/file/d/19RsY3hI-BoSDxxH6TZ92asaLJH0wMs4C/view?usp=share_link)
+    
+  - month: "September"
+    day: "28"
+    day-of-week: "Monday"
     topic: "The Ethics of Data [[slides](https://docs.google.com/presentation/d/1z0btRmPqJo_LcLET1Q3F8yuas1U7E3hldJE8TYC6MbY/edit?usp=sharing)]"
     due:
     released:
@@ -101,15 +110,6 @@ events:
       * Read the "Community Guidelines for Ethics Discussions," under "Goals and Expectations."
       * Complete **all readings** listed in the corresponding chapter.
       * Answer the corresponding questions to prepare for class discussions.
-
-  - month: "September"
-    day: "28"
-    day-of-week: "Monday"
-    exam: "Midterm I (everything before MLE)"
-    pre-class: | 
-      * Review [this list of topics](https://docs.google.com/document/d/10mfycPAzPpOduzX_nthVSfCyOKAw8ytgq9XNDSG7p3M/edit?usp=sharing)
-      * Answer [these practice questions](https://drive.google.com/file/d/1EvvBGzU_RNq7kiguiOE4OU8kkdBZ-4s3/view?usp=share_link)
-      * Compare your answer with [these solutions](https://drive.google.com/file/d/19RsY3hI-BoSDxxH6TZ92asaLJH0wMs4C/view?usp=share_link)
     
   - month: "September"
     day: "30"
