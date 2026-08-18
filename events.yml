@@ -296,7 +296,6 @@ events:
     day: "02"
     day-of-week: "Wednesday"
     topic: "The Ethics of Machine Learning: A View from History (Part 1) [[slides](https://docs.google.com/presentation/d/14Cjr83OxHSLiav-eI9DsIi7R1pZ5V0l6j_ZEXwRI5Mg/edit?usp=share_link)]"
-    due: "HW11 (A+B+C) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdkzjenfEt2ou8KFrlTrpqHgdH66KyKMXcvOIc9BTpJ3DHyWA/viewform?usp=publish-editor) by 10pm"
     released:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
@@ -306,6 +305,7 @@ events:
     day: "03"
     day-of-week: "Thursday"
     topic: "The Ethics of Machine Learning: A View from History (Part 2) [[slides](https://docs.google.com/presentation/d/1Jig99jUkXXvvfEIr1fihabVAhXdoEpc5WrOglQzhSoc/edit?slide=id.p#slide=id.p)]"
+    due: "HW11 (A+B+C) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdkzjenfEt2ou8KFrlTrpqHgdH66KyKMXcvOIc9BTpJ3DHyWA/viewform?usp=publish-editor) by 10pm"    
     released:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
