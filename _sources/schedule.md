@@ -400,68 +400,193 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday">
         <span class="date_label date_label_day">26</span>
         <span class="date_label date_label_month">October</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Classification [<a href="https://docs.google.com/presentation/d/17ret7jhZ_SCJ55jN3pxYJ9uZCnngrsgWqrlhbnj9kyE/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">28</span>
         <span class="date_label date_label_month">October</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW7 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAjWxYms_BbFVpcSZWudatyTjLWYhPIK1cuaGb7dgzByPMkw/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW8</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">29</span>
         <span class="date_label date_label_month">October</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Neural Networks [<a href="https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
       <td class="normalday new_month">
         <span class="date_label date_label_day">02</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW8 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTO6cY1s3Hs-ZWwxQTTIQFVifuH_c4Mt_kp2hObi1lcNY-XA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW9</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">04</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Model Selection &amp; Evaluation [<a href="https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">05</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW9 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSctMtoF18KE17YyzyiP0_dmAl374ovbib1m8Gj2hRprrlP9Ew/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW10</span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
       <td class="normalday">
         <span class="date_label date_label_day">09</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">11</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab or Special Topics</span>
+          </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW10 (A+B) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfcU3vvkDT7hRl3lzEr4na56UFz2zWUUJoRjvmDJbhbl-Sbqw/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+          </li>
+          <li>
+            <span class="tag released_tag">Released:</span>
+            <span>HW11</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">12</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>The Ethics of Predictive Models in Sociotechnical Systems [<a href="https://docs.google.com/presentation/d/11kIDf1jBUrAMD1xwlOyFObriPbxTzMvJSJ1vUXSFjig/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span><ul>
+<li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
+<li>Answer the corresponding questions to prepare for class discussions.</li>
+</ul></span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
       <td class="normalday">
         <span class="date_label date_label_day">16</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>The Ethics of Machine Learning: A View from History (Part 1) [<a href="https://docs.google.com/presentation/d/14Cjr83OxHSLiav-eI9DsIi7R1pZ5V0l6j_ZEXwRI5Mg/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span><ul>
+<li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
+<li>Answer the corresponding questions to prepare for class discussions.</li>
+</ul></span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">18</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>The Ethics of Machine Learning: A View from History (Part 2) [<a href="https://docs.google.com/presentation/d/1Jig99jUkXXvvfEIr1fihabVAhXdoEpc5WrOglQzhSoc/edit?slide=id.p#slide=id.p">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span><ul>
+<li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
+<li>Answer the corresponding questions to prepare for class discussions.</li>
+</ul></span>
+          </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW11 (A+B+C) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkzjenfEt2ou8KFrlTrpqHgdH66KyKMXcvOIc9BTpJ3DHyWA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">19</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Final Reflection</span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
