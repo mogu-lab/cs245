@@ -142,7 +142,6 @@ events:
     day: "12"
     day-of-week: "Monday"
     special: "Indigenous Peoples' Day: no classes."
-    topic: "Lab"
     due:
     released:
     pre-class:
