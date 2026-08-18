@@ -113,7 +113,7 @@ events:
     
   - month: "September"
     day: "30"
-    day-of-week: "Wednesday
+    day-of-week: "Wednesday"
     topic: "Maximum Likelihood: Theory [[slides](https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing)]"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
