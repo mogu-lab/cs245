@@ -15,18 +15,9 @@ We may adapt the course schedule to accomodate your learning!
       </tr>
     </thead>
     <tr class="col_headers light_row">
-      <td class="holiday new_month">
-        <span class="date_label date_label_day">19</span>
-        <span class="date_label date_label_month">January</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="day_note">Martin Luther King Jr. Day: no classes</span>
-          </li>
-        </ul>
-      </td>
-      <td class="normalday">
-        <span class="date_label date_label_day">21</span>
-        <span class="date_label date_label_month">January</span>
+      <td class="normalday new_month">
+        <span class="date_label date_label_day">31</span>
+        <span class="date_label date_label_month">August</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -47,9 +38,9 @@ We may adapt the course schedule to accomodate your learning!
           </li>
         </ul>
       </td>
-      <td class="normalday">
-        <span class="date_label date_label_day">22</span>
-        <span class="date_label date_label_month">January</span>
+      <td class="normalday new_month">
+        <span class="date_label date_label_day">02</span>
+        <span class="date_label date_label_month">September</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -61,11 +52,9 @@ We may adapt the course schedule to accomodate your learning!
           </li>
         </ul>
       </td>
-    </tr>
-    <tr class="col_headers light_row">
       <td class="normalday">
-        <span class="date_label date_label_day">26</span>
-        <span class="date_label date_label_month">January</span>
+        <span class="date_label date_label_day">03</span>
+        <span class="date_label date_label_month">September</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -77,9 +66,20 @@ We may adapt the course schedule to accomodate your learning!
           </li>
         </ul>
       </td>
+    </tr>
+    <tr class="col_headers light_row">
+      <td class="holiday">
+        <span class="date_label date_label_day">07</span>
+        <span class="date_label date_label_month">September</span>
+        <ul class="day_agenda">
+          <li>
+            <span class="day_note">Labor Day: no classes.</span>
+          </li>
+        </ul>
+      </td>
       <td class="normalday">
-        <span class="date_label date_label_day">28</span>
-        <span class="date_label date_label_month">January</span>
+        <span class="date_label date_label_day">09</span>
+        <span class="date_label date_label_month">September</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -96,8 +96,8 @@ We may adapt the course schedule to accomodate your learning!
         </ul>
       </td>
       <td class="normalday">
-        <span class="date_label date_label_day">29</span>
-        <span class="date_label date_label_month">January</span>
+        <span class="date_label date_label_day">10</span>
+        <span class="date_label date_label_month">September</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -111,19 +111,9 @@ We may adapt the course schedule to accomodate your learning!
       </td>
     </tr>
     <tr class="col_headers light_row">
-      <td class="normalday new_month">
-        <span class="date_label date_label_day">02</span>
-        <span class="date_label date_label_month">February</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-        </ul>
-      </td>
       <td class="normalday">
-        <span class="date_label date_label_day">04</span>
-        <span class="date_label date_label_month">February</span>
+        <span class="date_label date_label_day">14</span>
+        <span class="date_label date_label_month">September</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -140,8 +130,18 @@ We may adapt the course schedule to accomodate your learning!
         </ul>
       </td>
       <td class="normalday">
-        <span class="date_label date_label_day">05</span>
-        <span class="date_label date_label_month">February</span>
+        <span class="date_label date_label_day">16</span>
+        <span class="date_label date_label_month">September</span>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
+      </td>
+      <td class="normalday">
+        <span class="date_label date_label_day">17</span>
+        <span class="date_label date_label_month">September</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -156,8 +156,8 @@ We may adapt the course schedule to accomodate your learning!
     </tr>
     <tr class="col_headers light_row">
       <td class="normalday">
-        <span class="date_label date_label_day">09</span>
-        <span class="date_label date_label_month">February</span>
+        <span class="date_label date_label_day">21</span>
+        <span class="date_label date_label_month">September</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -166,8 +166,8 @@ We may adapt the course schedule to accomodate your learning!
         </ul>
       </td>
       <td class="normalday">
-        <span class="date_label date_label_day">11</span>
-        <span class="date_label date_label_month">February</span>
+        <span class="date_label date_label_day">23</span>
+        <span class="date_label date_label_month">September</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -184,8 +184,8 @@ We may adapt the course schedule to accomodate your learning!
         </ul>
       </td>
       <td class="normalday">
-        <span class="date_label date_label_day">12</span>
-        <span class="date_label date_label_month">February</span>
+        <span class="date_label date_label_day">24</span>
+        <span class="date_label date_label_month">September</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -203,13 +203,10 @@ We may adapt the course schedule to accomodate your learning!
       </td>
     </tr>
     <tr class="col_headers light_row">
-      <td class="holiday">
-        <span class="date_label date_label_day">16</span>
-        <span class="date_label date_label_month">February</span>
+      <td class="normalday">
+        <span class="date_label date_label_day">28</span>
+        <span class="date_label date_label_month">September</span>
         <ul class="day_agenda">
-          <li>
-            <span class="day_note">President's Day: Monday schedule on Tuesday!</span>
-          </li>
           <li>
             <span class="tag topic_tag">Topic:</span>
             <span>Maximum Likelihood: Theory [<a href="https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing">slides</a>]</span>
@@ -221,8 +218,8 @@ We may adapt the course schedule to accomodate your learning!
         </ul>
       </td>
       <td class="normalday">
-        <span class="date_label date_label_day">18</span>
-        <span class="date_label date_label_month">February</span>
+        <span class="date_label date_label_day">30</span>
+        <span class="date_label date_label_month">September</span>
         <ul class="day_agenda">
           <li>
             <span class="tag preclass_tag">Pre-Class:</span>
@@ -238,31 +235,9 @@ We may adapt the course schedule to accomodate your learning!
           </li>
         </ul>
       </td>
-      <td class="normalday">
-        <span class="date_label date_label_day">19</span>
-        <span class="date_label date_label_month">February</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr class="col_headers light_row">
-      <td class="normalday">
-        <span class="date_label date_label_day">23</span>
-        <span class="date_label date_label_month">February</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-        </ul>
-      </td>
-      <td class="normalday">
-        <span class="date_label date_label_day">25</span>
-        <span class="date_label date_label_month">February</span>
+      <td class="normalday new_month">
+        <span class="date_label date_label_day">01</span>
+        <span class="date_label date_label_month">October</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -282,21 +257,11 @@ We may adapt the course schedule to accomodate your learning!
           </li>
         </ul>
       </td>
-      <td class="normalday">
-        <span class="date_label date_label_day">26</span>
-        <span class="date_label date_label_month">February</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-        </ul>
-      </td>
     </tr>
     <tr class="col_headers light_row">
-      <td class="normalday new_month">
-        <span class="date_label date_label_day">02</span>
-        <span class="date_label date_label_month">March</span>
+      <td class="normalday">
+        <span class="date_label date_label_day">05</span>
+        <span class="date_label date_label_month">October</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -305,8 +270,8 @@ We may adapt the course schedule to accomodate your learning!
         </ul>
       </td>
       <td class="normalday">
-        <span class="date_label date_label_day">04</span>
-        <span class="date_label date_label_month">March</span>
+        <span class="date_label date_label_day">07</span>
+        <span class="date_label date_label_month">October</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -327,20 +292,8 @@ We may adapt the course schedule to accomodate your learning!
         </ul>
       </td>
       <td class="normalday">
-        <span class="date_label date_label_day">05</span>
-        <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr class="col_headers light_row">
-      <td class="normalday">
-        <span class="date_label date_label_day">09</span>
-        <span class="date_label date_label_month">March</span>
+        <span class="date_label date_label_day">08</span>
+        <span class="date_label date_label_month">October</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -352,9 +305,20 @@ We may adapt the course schedule to accomodate your learning!
           </li>
         </ul>
       </td>
+    </tr>
+    <tr class="col_headers light_row">
+      <td class="holiday">
+        <span class="date_label date_label_day">12</span>
+        <span class="date_label date_label_month">October</span>
+        <ul class="day_agenda">
+          <li>
+            <span class="day_note">Indigenous Peoples' Day: no classes.</span>
+          </li>
+        </ul>
+      </td>
       <td class="normalday">
-        <span class="date_label date_label_day">11</span>
-        <span class="date_label date_label_month">March</span>
+        <span class="date_label date_label_day">14</span>
+        <span class="date_label date_label_month">October</span>
         <ul class="day_agenda">
           <li>
             <span class="tag preclass_tag">Pre-Class:</span>
@@ -371,8 +335,8 @@ We may adapt the course schedule to accomodate your learning!
         </ul>
       </td>
       <td class="normalday">
-        <span class="date_label date_label_day">12</span>
-        <span class="date_label date_label_month">March</span>
+        <span class="date_label date_label_day">15</span>
+        <span class="date_label date_label_month">October</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -389,38 +353,9 @@ We may adapt the course schedule to accomodate your learning!
       </td>
     </tr>
     <tr class="col_headers light_row">
-      <td class="holiday">
-        <span class="date_label date_label_day">16</span>
-        <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="day_note">Spring Break: no classes</span>
-          </li>
-        </ul>
-      </td>
-      <td class="holiday">
-        <span class="date_label date_label_day">18</span>
-        <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="day_note">Spring Break: no classes</span>
-          </li>
-        </ul>
-      </td>
-      <td class="holiday">
-        <span class="date_label date_label_day">19</span>
-        <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="day_note">Spring Break: no classes</span>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr class="col_headers light_row">
       <td class="normalday">
-        <span class="date_label date_label_day">23</span>
-        <span class="date_label date_label_month">March</span>
+        <span class="date_label date_label_day">19</span>
+        <span class="date_label date_label_month">October</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -433,8 +368,8 @@ We may adapt the course schedule to accomodate your learning!
         </ul>
       </td>
       <td class="normalday">
-        <span class="date_label date_label_day">25</span>
-        <span class="date_label date_label_month">March</span>
+        <span class="date_label date_label_day">21</span>
+        <span class="date_label date_label_month">October</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -451,274 +386,166 @@ We may adapt the course schedule to accomodate your learning!
         </ul>
       </td>
       <td class="normalday">
-        <span class="date_label date_label_day">26</span>
-        <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr class="col_headers light_row">
-      <td class="normalday">
-        <span class="date_label date_label_day">30</span>
-        <span class="date_label date_label_month">March</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Classification [<a href="https://docs.google.com/presentation/d/17ret7jhZ_SCJ55jN3pxYJ9uZCnngrsgWqrlhbnj9kyE/edit?usp=share_link">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
-          </li>
-        </ul>
-      </td>
-      <td class="normalday new_month">
-        <span class="date_label date_label_day">01</span>
-        <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW7 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAjWxYms_BbFVpcSZWudatyTjLWYhPIK1cuaGb7dgzByPMkw/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
-          </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>HW8</span>
-          </li>
-        </ul>
-      </td>
-      <td class="normalday">
-        <span class="date_label date_label_day">02</span>
-        <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr class="col_headers light_row">
-      <td class="normalday">
-        <span class="date_label date_label_day">06</span>
-        <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Neural Networks [<a href="https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
-          </li>
-        </ul>
-      </td>
-      <td class="normalday">
-        <span class="date_label date_label_day">08</span>
-        <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW8 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTO6cY1s3Hs-ZWwxQTTIQFVifuH_c4Mt_kp2hObi1lcNY-XA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
-          </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>HW9</span>
-          </li>
-        </ul>
-      </td>
-      <td class="normalday">
-        <span class="date_label date_label_day">09</span>
-        <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr class="col_headers light_row">
-      <td class="normalday">
-        <span class="date_label date_label_day">13</span>
-        <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Model Selection &amp; Evaluation [<a href="https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
-          </li>
-        </ul>
-      </td>
-      <td class="holiday">
-        <span class="date_label date_label_day">15</span>
-        <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="day_note">Ruhlman Conference: no classes</span>
-          </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW9 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSctMtoF18KE17YyzyiP0_dmAl374ovbib1m8Gj2hRprrlP9Ew/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
-          </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>HW10</span>
-          </li>
-        </ul>
-      </td>
-      <td class="normalday">
-        <span class="date_label date_label_day">16</span>
-        <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr class="col_headers light_row">
-      <td class="holiday">
-        <span class="date_label date_label_day">20</span>
-        <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="day_note">Patriot's Day: no classes</span>
-          </li>
-        </ul>
-      </td>
-      <td class="normalday">
         <span class="date_label date_label_day">22</span>
-        <span class="date_label date_label_month">April</span>
+        <span class="date_label date_label_month">October</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab or Special Topics</span>
-          </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW10 (A+B) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfcU3vvkDT7hRl3lzEr4na56UFz2zWUUJoRjvmDJbhbl-Sbqw/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
-          </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>HW11</span>
-          </li>
-        </ul>
-      </td>
-      <td class="normalday">
-        <span class="date_label date_label_day">23</span>
-        <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>The Ethics of Predictive Models in Sociotechnical Systems [<a href="https://docs.google.com/presentation/d/11kIDf1jBUrAMD1xwlOyFObriPbxTzMvJSJ1vUXSFjig/edit?usp=share_link">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span><ul>
-<li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
-<li>Answer the corresponding questions to prepare for class discussions.</li>
-</ul></span>
+            <span>Lab</span>
           </li>
         </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
       <td class="normalday">
-        <span class="date_label date_label_day">27</span>
-        <span class="date_label date_label_month">April</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>The Ethics of Machine Learning: A View from History (Part 1) [<a href="https://docs.google.com/presentation/d/14Cjr83OxHSLiav-eI9DsIi7R1pZ5V0l6j_ZEXwRI5Mg/edit?usp=share_link">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span><ul>
-<li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
-<li>Answer the corresponding questions to prepare for class discussions.</li>
-</ul></span>
-          </li>
-        </ul>
+        <span class="date_label date_label_day">26</span>
+        <span class="date_label date_label_month">October</span>
+        <ul class="day_agenda"></ul>
+      </td>
+      <td class="normalday">
+        <span class="date_label date_label_day">28</span>
+        <span class="date_label date_label_month">October</span>
+        <ul class="day_agenda"></ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">29</span>
-        <span class="date_label date_label_month">April</span>
+        <span class="date_label date_label_month">October</span>
+        <ul class="day_agenda"></ul>
+      </td>
+    </tr>
+    <tr class="col_headers light_row">
+      <td class="normalday new_month">
+        <span class="date_label date_label_day">02</span>
+        <span class="date_label date_label_month">November</span>
+        <ul class="day_agenda"></ul>
+      </td>
+      <td class="normalday">
+        <span class="date_label date_label_day">04</span>
+        <span class="date_label date_label_month">November</span>
+        <ul class="day_agenda"></ul>
+      </td>
+      <td class="normalday">
+        <span class="date_label date_label_day">05</span>
+        <span class="date_label date_label_month">November</span>
+        <ul class="day_agenda"></ul>
+      </td>
+    </tr>
+    <tr class="col_headers light_row">
+      <td class="normalday">
+        <span class="date_label date_label_day">09</span>
+        <span class="date_label date_label_month">November</span>
+        <ul class="day_agenda"></ul>
+      </td>
+      <td class="normalday">
+        <span class="date_label date_label_day">11</span>
+        <span class="date_label date_label_month">November</span>
+        <ul class="day_agenda"></ul>
+      </td>
+      <td class="normalday">
+        <span class="date_label date_label_day">12</span>
+        <span class="date_label date_label_month">November</span>
+        <ul class="day_agenda"></ul>
+      </td>
+    </tr>
+    <tr class="col_headers light_row">
+      <td class="normalday">
+        <span class="date_label date_label_day">16</span>
+        <span class="date_label date_label_month">November</span>
+        <ul class="day_agenda"></ul>
+      </td>
+      <td class="normalday">
+        <span class="date_label date_label_day">18</span>
+        <span class="date_label date_label_month">November</span>
+        <ul class="day_agenda"></ul>
+      </td>
+      <td class="normalday">
+        <span class="date_label date_label_day">19</span>
+        <span class="date_label date_label_month">November</span>
+        <ul class="day_agenda"></ul>
+      </td>
+    </tr>
+    <tr class="col_headers light_row">
+      <td class="normalday">
+        <span class="date_label date_label_day">23</span>
+        <span class="date_label date_label_month">November</span>
+        <ul class="day_agenda"></ul>
+      </td>
+      <td class="holiday">
+        <span class="date_label date_label_day">25</span>
+        <span class="date_label date_label_month">November</span>
         <ul class="day_agenda">
           <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>The Ethics of Machine Learning: A View from History (Part 2) [<a href="https://docs.google.com/presentation/d/1Jig99jUkXXvvfEIr1fihabVAhXdoEpc5WrOglQzhSoc/edit?slide=id.p#slide=id.p">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span><ul>
-<li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
-<li>Answer the corresponding questions to prepare for class discussions.</li>
-</ul></span>
-          </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW11 (A+B+C) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkzjenfEt2ou8KFrlTrpqHgdH66KyKMXcvOIc9BTpJ3DHyWA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+            <span class="day_note">Thanksgiving Break: no classes.</span>
           </li>
         </ul>
       </td>
       <td class="holiday">
-        <span class="date_label date_label_day">30</span>
-        <span class="date_label date_label_month">April</span>
+        <span class="date_label date_label_day">26</span>
+        <span class="date_label date_label_month">November</span>
         <ul class="day_agenda">
           <li>
-            <span class="day_note">Substitute Day: Monday Schedule</span>
-          </li>
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Final Reflection</span>
+            <span class="day_note">Thanksgiving Break: no classes.</span>
           </li>
         </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
-      <td class="normalday new_month readingperiod">
-        <span class="date_label date_label_day">04</span>
-        <span class="date_label date_label_month">May</span>
+      <td class="normalday">
+        <span class="date_label date_label_day">30</span>
+        <span class="date_label date_label_month">November</span>
         <ul class="day_agenda"></ul>
       </td>
-      <td class="normalday readingperiod">
-        <span class="date_label date_label_day">06</span>
-        <span class="date_label date_label_month">May</span>
+      <td class="normalday new_month">
+        <span class="date_label date_label_day">02</span>
+        <span class="date_label date_label_month">December</span>
         <ul class="day_agenda"></ul>
       </td>
-      <td class="normalday readingperiod">
+      <td class="normalday">
+        <span class="date_label date_label_day">03</span>
+        <span class="date_label date_label_month">December</span>
+        <ul class="day_agenda"></ul>
+      </td>
+    </tr>
+    <tr class="col_headers light_row">
+      <td class="normalday">
         <span class="date_label date_label_day">07</span>
-        <span class="date_label date_label_month">May</span>
+        <span class="date_label date_label_month">December</span>
+        <ul class="day_agenda"></ul>
+      </td>
+      <td class="normalday">
+        <span class="date_label date_label_day">09</span>
+        <span class="date_label date_label_month">December</span>
+        <ul class="day_agenda"></ul>
+      </td>
+      <td class="holiday readingperiod">
+        <span class="date_label date_label_day">10</span>
+        <span class="date_label date_label_month">December</span>
         <ul class="day_agenda">
           <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span><ul>
-<li>Review <a href="https://docs.google.com/document/d/1lewDZm4kyhw4ql556WXPdrP_fBXuI8d5j9ONep7GzQI/edit?usp=sharing">this list of topics</a></li>
-<li>Answer <a href="https://drive.google.com/file/d/18BravhOshLixWzpTnX8f6zDlaWt1cwxo/view?usp=sharing">these practice questions</a></li>
-<li>Compare your answer with <a href="https://drive.google.com/file/d/1XEiMGPa-_eBVtA2IfVCqsImpEmfuAfua/view?usp=sharing">these solutions</a></li>
-</ul></span>
-          </li>
-          <li>
-            <span class="tag exam_tag">Exam:</span>
-            <span>Final Exam on Friday May 8, 9-11:30am @ PNE-127</span>
+            <span class="day_note">Reading Period Begins.</span>
           </li>
         </ul>
+      </td>
+    </tr>
+    <tr class="col_headers light_row">
+      <td class="holiday readingperiod">
+        <span class="date_label date_label_day">14</span>
+        <span class="date_label date_label_month">December</span>
+        <ul class="day_agenda">
+          <li>
+            <span class="day_note">Final Exam Period Begins.</span>
+          </li>
+        </ul>
+      </td>
+      <td class="normalday readingperiod">
+        <span class="date_label date_label_day">16</span>
+        <span class="date_label date_label_month">December</span>
+        <ul class="day_agenda"></ul>
+      </td>
+      <td class="normalday readingperiod">
+        <span class="date_label date_label_day">17</span>
+        <span class="date_label date_label_month">December</span>
+        <ul class="day_agenda"></ul>
       </td>
     </tr>
   </tbody>
