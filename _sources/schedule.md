@@ -274,10 +274,6 @@ We may adapt the course schedule to accomodate your learning!
             <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
           <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW5 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFL7YFkXj9EkDAZcklxl0RDRmkO_Mn1E_lnjhD6AgmtziXUw/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
-          </li>
-          <li>
             <span class="tag released_tag">Released:</span>
             <span>HW6</span>
           </li>
@@ -341,6 +337,10 @@ We may adapt the course schedule to accomodate your learning!
 <li>Answer the corresponding questions to prepare for class discussions.</li>
 </ul></span>
           </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW8 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTO6cY1s3Hs-ZWwxQTTIQFVifuH_c4Mt_kp2hObi1lcNY-XA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+          </li>
         </ul>
       </td>
     </tr>
@@ -367,14 +367,6 @@ We may adapt the course schedule to accomodate your learning!
             <span class="tag topic_tag">Topic:</span>
             <span>Lab</span>
           </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW6 (A+B+C) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmCIxqM922hz3vmB4k8Pbwk_k3XmisCNDFSk9_h5K-wJtEA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
-          </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>HW7</span>
-          </li>
         </ul>
       </td>
       <td class="normalday">
@@ -384,6 +376,10 @@ We may adapt the course schedule to accomodate your learning!
           <li>
             <span class="tag topic_tag">Topic:</span>
             <span>Lab</span>
+          </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW6 (A+B+C) by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmCIxqM922hz3vmB4k8Pbwk_k3XmisCNDFSk9_h5K-wJtEA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
           </li>
         </ul>
       </td>
@@ -411,14 +407,6 @@ We may adapt the course schedule to accomodate your learning!
             <span class="tag topic_tag">Topic:</span>
             <span>Lab</span>
           </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW7 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAjWxYms_BbFVpcSZWudatyTjLWYhPIK1cuaGb7dgzByPMkw/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
-          </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>HW8</span>
-          </li>
         </ul>
       </td>
       <td class="normalday">
@@ -433,6 +421,10 @@ We may adapt the course schedule to accomodate your learning!
             <span class="tag preclass_tag">Pre-Class:</span>
             <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW7 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAjWxYms_BbFVpcSZWudatyTjLWYhPIK1cuaGb7dgzByPMkw/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+          </li>
         </ul>
       </td>
     </tr>
@@ -444,14 +436,6 @@ We may adapt the course schedule to accomodate your learning!
           <li>
             <span class="tag topic_tag">Topic:</span>
             <span>Lab</span>
-          </li>
-          <li>
-            <span class="tag due_tag">Due:</span>
-            <span>HW8 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTO6cY1s3Hs-ZWwxQTTIQFVifuH_c4Mt_kp2hObi1lcNY-XA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
-          </li>
-          <li>
-            <span class="tag released_tag">Released:</span>
-            <span>HW9</span>
           </li>
         </ul>
       </td>
@@ -475,7 +459,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag due_tag">Due:</span>
-            <span>HW9 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSctMtoF18KE17YyzyiP0_dmAl374ovbib1m8Gj2hRprrlP9Ew/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+            <span>HW8 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTO6cY1s3Hs-ZWwxQTTIQFVifuH_c4Mt_kp2hObi1lcNY-XA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
           </li>
         </ul>
       </td>
@@ -499,7 +483,12 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday">
         <span class="date_label date_label_day">12</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag due_tag">Due:</span>
+            <span>HW9 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSctMtoF18KE17YyzyiP0_dmAl374ovbib1m8Gj2hRprrlP9Ew/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr class="col_headers light_row">
