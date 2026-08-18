@@ -440,14 +440,6 @@ We may adapt the course schedule to accomodate your learning!
         <span class="date_label date_label_month">October</span>
         <ul class="day_agenda">
           <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Neural Networks [<a href="https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
-          </li>
-          <li>
             <span class="tag due_tag">Due:</span>
             <span>HW7 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAjWxYms_BbFVpcSZWudatyTjLWYhPIK1cuaGb7dgzByPMkw/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
           </li>
@@ -472,21 +464,20 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday">
         <span class="date_label date_label_day">04</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda">
-          <li>
-            <span class="tag topic_tag">Topic:</span>
-            <span>Model Selection &amp; Evaluation [<a href="https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
-          </li>
-        </ul>
+        <ul class="day_agenda"></ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">05</span>
         <span class="date_label date_label_month">November</span>
         <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Neural Networks [<a href="https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
           <li>
             <span class="tag due_tag">Due:</span>
             <span>HW8 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTO6cY1s3Hs-ZWwxQTTIQFVifuH_c4Mt_kp2hObi1lcNY-XA/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
@@ -518,6 +509,14 @@ We may adapt the course schedule to accomodate your learning!
         <span class="date_label date_label_day">12</span>
         <span class="date_label date_label_month">November</span>
         <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Model Selection &amp; Evaluation [<a href="https://docs.google.com/presentation/d/1LGtce4096YA_PhZCKY-SPIInmuiN4av1XMJkaUzy1yY/edit?usp=share_link">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+          </li>
           <li>
             <span class="tag due_tag">Due:</span>
             <span>HW9 by 9pm on Gradescope, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSctMtoF18KE17YyzyiP0_dmAl374ovbib1m8Gj2hRprrlP9Ew/viewform?usp=publish-editor">this reflection</a> by 10pm</span>
