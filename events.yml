@@ -130,7 +130,7 @@ events:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
       * Answer the corresponding questions to prepare for class discussions.
-    due: "HW5 (A+B) by 9pm on Gradescope, and [this reflection](TODO) by 10pm"
+    due: "HW5 (A+B) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfFL7YFkXj9EkDAZcklxl0RDRmkO_Mn1E_lnjhD6AgmtziXUw/viewform?usp=dialog) by 10pm"
 
   - month: "October"
     day: "12"
