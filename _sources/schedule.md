@@ -269,6 +269,11 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday">
         <span class="date_label date_label_day">05</span>
         <span class="date_label date_label_month">October</span>
+        <ul class="day_agenda"></ul>
+      </td>
+      <td class="normalday">
+        <span class="date_label date_label_day">07</span>
+        <span class="date_label date_label_month">October</span>
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
@@ -279,11 +284,6 @@ We may adapt the course schedule to accomodate your learning!
             <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
         </ul>
-      </td>
-      <td class="normalday">
-        <span class="date_label date_label_day">07</span>
-        <span class="date_label date_label_month">October</span>
-        <ul class="day_agenda"></ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">08</span>
@@ -318,6 +318,10 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="day_note">Indigenous Peoples' Day: no classes.</span>
+          </li>
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
           </li>
         </ul>
       </td>
@@ -458,7 +462,12 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday">
         <span class="date_label date_label_day">04</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">05</span>
@@ -497,7 +506,12 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday">
         <span class="date_label date_label_day">11</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">12</span>
@@ -526,12 +540,22 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday">
         <span class="date_label date_label_day">16</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">18</span>
         <span class="date_label date_label_month">November</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag topic_tag">Topic:</span>
+            <span>Lab</span>
+          </li>
+        </ul>
       </td>
       <td class="normalday">
         <span class="date_label date_label_day">19</span>
