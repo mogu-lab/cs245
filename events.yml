@@ -85,9 +85,10 @@ events:
   - month: "September"
     day: "23"
     day-of-week: "Wednesday"
-    topic: "Lab"
-    released: 
-    pre-class:
+    topic: "Midterm Review"
+    pre-class: |
+      * Attempt all of the practice questions.
+      * Bring specific questions!
 
   - month: "September"
     day: "24"
@@ -152,7 +153,10 @@ events:
   - month: "October"
     day: "14"
     day-of-week: "Wednesday"
-    topic: "Lab"
+    topic: "Midterm Review"
+    pre-class: |
+      * Attempt all of the practice questions.
+      * Bring specific questions!
 
   - month: "October"
     day: "15"
