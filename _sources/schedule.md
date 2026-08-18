@@ -91,7 +91,11 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>Conditional Probability (Discrete) [<a href="https://docs.google.com/presentation/d/1VBx1e5JuMcvcQaoDYUlRUdZk3mzFjAwAiRMigB823v4/edit?usp=sharing">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
         </ul>
       </td>
@@ -101,11 +105,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Conditional Probability (Discrete) [<a href="https://docs.google.com/presentation/d/1VBx1e5JuMcvcQaoDYUlRUdZk3mzFjAwAiRMigB823v4/edit?usp=sharing">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+            <span>Lab</span>
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
@@ -125,7 +125,11 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>Joint Probability (Discrete) [<a href="https://docs.google.com/presentation/d/1RI11DaA9UwM0EOBiEURUoI2W-9Gd5RUwhJAIi4eolNs/edit?usp=sharing">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
         </ul>
       </td>
@@ -135,11 +139,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Joint Probability (Discrete) [<a href="https://docs.google.com/presentation/d/1RI11DaA9UwM0EOBiEURUoI2W-9Gd5RUwhJAIi4eolNs/edit?usp=sharing">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+            <span>Lab</span>
           </li>
         </ul>
       </td>
