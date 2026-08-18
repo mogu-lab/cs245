@@ -39,30 +39,26 @@ events:
   - month: "September"
     day: "09"
     day-of-week: "Wednesday"
-    topic: "Lab"
-    released: 
-    pre-class:
+    topic: "Conditional Probability (Discrete) [[slides](https://docs.google.com/presentation/d/1VBx1e5JuMcvcQaoDYUlRUdZk3mzFjAwAiRMigB823v4/edit?usp=sharing)]"
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "September"
     day: "10"
     day-of-week: "Thursday"
-    topic: "Conditional Probability (Discrete) [[slides](https://docs.google.com/presentation/d/1VBx1e5JuMcvcQaoDYUlRUdZk3mzFjAwAiRMigB823v4/edit?usp=sharing)]"
+    topic: "Lab"    
     due: "HW2 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSeBcJnF8cFbCH1NW3D2ZexahrK_ofuas416Vy6PI1Qnr1siHQ/viewform?usp=dialog) by 10pm"
     released: "HW3"
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "September"
     day: "14"
     day-of-week: "Monday"
-    topic: "Lab"
-    released: 
-    pre-class:
-
+    topic: "Joint Probability (Discrete) [[slides](https://docs.google.com/presentation/d/1RI11DaA9UwM0EOBiEURUoI2W-9Gd5RUwhJAIi4eolNs/edit?usp=sharing)]"
+    pre-class: "Read corresponding chapter; prepare questions to ask in class."
+    
   - month: "September"
     day: "16"
     day-of-week: "Wednesday"
-    topic: "Joint Probability (Discrete) [[slides](https://docs.google.com/presentation/d/1RI11DaA9UwM0EOBiEURUoI2W-9Gd5RUwhJAIi4eolNs/edit?usp=sharing)]"
-    pre-class: "Read corresponding chapter; prepare questions to ask in class."
+    topic: "Lab"
     
   - month: "September"
     day: "17"
