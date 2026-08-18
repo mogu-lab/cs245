@@ -216,15 +216,11 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>The Ethics of Data [<a href="https://docs.google.com/presentation/d/1z0btRmPqJo_LcLET1Q3F8yuas1U7E3hldJE8TYC6MbY/edit?usp=sharing">slides</a>]</span>
+            <span>Maximum Likelihood: Theory [<a href="https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing">slides</a>]</span>
           </li>
           <li>
             <span class="tag preclass_tag">Pre-Class:</span>
-            <span><ul>
-<li>Read the "Community Guidelines for Ethics Discussions," under "Goals and Expectations."</li>
-<li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
-<li>Answer the corresponding questions to prepare for class discussions.</li>
-</ul></span>
+            <span>Read corresponding chapter; prepare questions to ask in class.</span>
           </li>
         </ul>
       </td>
@@ -234,11 +230,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Maximum Likelihood: Theory [<a href="https://docs.google.com/presentation/d/1U71N7OYHlLjQeC4VSMciu1mPOUgOysi4kcXc3UPvDjk/edit?usp=sharing">slides</a>]</span>
-          </li>
-          <li>
-            <span class="tag preclass_tag">Pre-Class:</span>
-            <span>Read corresponding chapter; prepare questions to ask in class.</span>
+            <span>Lab</span>
           </li>
         </ul>
       </td>
@@ -248,7 +240,15 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Lab</span>
+            <span>The Ethics of Data [<a href="https://docs.google.com/presentation/d/1z0btRmPqJo_LcLET1Q3F8yuas1U7E3hldJE8TYC6MbY/edit?usp=sharing">slides</a>]</span>
+          </li>
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span><ul>
+<li>Read the "Community Guidelines for Ethics Discussions," under "Goals and Expectations."</li>
+<li>Complete <strong>all readings</strong> listed in the corresponding chapter.</li>
+<li>Answer the corresponding questions to prepare for class discussions.    </li>
+</ul></span>
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
