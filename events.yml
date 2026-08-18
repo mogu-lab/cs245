@@ -24,7 +24,7 @@ events:
     day-of-week: "Thursday"
     topic: "Probability (Discrete) [[slides](https://docs.google.com/presentation/d/1-sFZ53bSaIw8MeasMErfK2boRRJ5ymYtqCqNYp1BXn0/edit?usp=sharing)]"
     due: "HW1 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdVwrRbRx0g38dB9kpVZavt6GK2P0-OTrGci0Vr3L8sYeR-0Q/viewform?usp=dialog) by 10pm"
-    released: 
+    released: "HW2"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "September"
@@ -48,7 +48,7 @@ events:
     day-of-week: "Thursday"
     topic: "Conditional Probability (Discrete) [[slides](https://docs.google.com/presentation/d/1VBx1e5JuMcvcQaoDYUlRUdZk3mzFjAwAiRMigB823v4/edit?usp=sharing)]"
     due: "HW2 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSeBcJnF8cFbCH1NW3D2ZexahrK_ofuas416Vy6PI1Qnr1siHQ/viewform?usp=dialog) by 10pm"
-    released:    
+    released: "HW3"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "September"
@@ -71,7 +71,7 @@ events:
     day-of-week: "Thursday"
     topic: "Joint Probability (Discrete) [[slides](https://docs.google.com/presentation/d/1RI11DaA9UwM0EOBiEURUoI2W-9Gd5RUwhJAIi4eolNs/edit?usp=sharing)]"
     due: "HW3 (A+B) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfIRI-lyBsB765rCQ8xnKgIb-adD3K7oWkuyIUS9mAIaLFa3w/viewform?usp=publish-editor) by 10pm"    
-    released:    
+    released: "HW4"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "September"
@@ -120,7 +120,7 @@ events:
     day-of-week: "Thursday"
     topic: "Maximum Likelihood: Code [[slides](https://docs.google.com/presentation/d/1_YuhMoViySureG068w36mS3DeIQisadTlxRUKHdONN0/edit?usp=sharing)]"
     due: "HW4 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSchGpCvR9mMz1Atm9N9PYkPdnCdTAW7feHPNupcjPvpK0tkgA/viewform?usp=publish-editor) by 10pm"
-    released: 
+    released: "HW5"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
 
   - month: "October"
@@ -140,7 +140,7 @@ events:
     day: "08"
     day-of-week: "Thursday"
     topic: "The Ethics of Learning from Data [[slides](https://docs.google.com/presentation/d/1YgdwT-NXqsn0kbK8Gvc8Lsp33QeqVeLYVxzruwdmsIU/edit?usp=share_link)]"
-    released:
+    released: "HW6"
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
       * Answer the corresponding questions to prepare for class discussions.
@@ -189,7 +189,7 @@ events:
     day-of-week: "Thursday"
     topic: "Lab"
     due:
-    released:
+    released: "HW7"
     pre-class:
     due: "HW6 (A+B+C) by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLScnmCIxqM922hz3vmB4k8Pbwk_k3XmisCNDFSk9_h5K-wJtEA/viewform?usp=publish-editor) by 10pm"
 
@@ -211,7 +211,7 @@ events:
     day: "29"
     day-of-week: "Thursday"
     topic: "Neural Networks [[slides](https://docs.google.com/presentation/d/1Vx47JvK_9yE58niOxrvh6bMkR48f0YKe7AGpiaYTcyo/edit?usp=share_link)]"
-    released:
+    released: "HW8"
     pre-class: "Read corresponding chapter; prepare questions to ask in class."
     due: "HW7 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSdAjWxYms_BbFVpcSZWudatyTjLWYhPIK1cuaGb7dgzByPMkw/viewform?usp=publish-editor) by 10pm"
 
@@ -234,7 +234,7 @@ events:
     day: "05"
     day-of-week: "Thursday"
     topic:
-    released: 
+    released: "HW9"
     pre-class:
     due: "HW8 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSfTO6cY1s3Hs-ZWwxQTTIQFVifuH_c4Mt_kp2hObi1lcNY-XA/viewform?usp=publish-editor) by 10pm"
 
@@ -254,6 +254,7 @@ events:
     day: "12"
     day-of-week: "Thursday"
     due: "HW9 by 9pm on Gradescope, and [this reflection](https://docs.google.com/forms/d/e/1FAIpQLSctMtoF18KE17YyzyiP0_dmAl374ovbib1m8Gj2hRprrlP9Ew/viewform?usp=publish-editor) by 10pm"
+    released: "HW10"
 
   - month: "November"
     day: "16"
