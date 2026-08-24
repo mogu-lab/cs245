@@ -28,7 +28,7 @@ So: still practical, still occasionally sarcastic, but aimed at helping you actu
 
 Hi! I'm Kailyn, a CS/DS student and TA for CS245! I took CS345 (before CS245 existed) before becoming a TA, so I've experienced both the “what on earth is this?” side and the “let me help you figure out what on earth this is” side. Outside of CS, I spend a lot of time playing music, making things, and collecting an ever-growing number of hobbies. If you ever have a question or just want to talk, feel free to find me during office hours!
 
-<img alt="Photo of Kailyn" style="display: inline;" height=200px src="/_static/guide_to_flourishing/k_pic.JPG" />
+<img alt="Photo of Kailyn" style="display: inline;" height=200px align=center src="/_static/guide_to_flourishing/k_pic.JPG" />
 
 ```{admonition} TA Tip
 :class: tip
@@ -61,8 +61,8 @@ Before submitting homework, scroll from top to bottom once to make sure you answ
 
 Yaniv has set up the notebooks with an init cell that installs everything you need. It should look something like this:
 
-<img alt="Init code in Deepnote" style="display: inline;" height=75px src="/_static/guide_to_flourishing/init_2.png" />
-<img alt="Init cell in Deepnote" style="display: inline;" height=75px src="/_static/guide_to_flourishing/init.png" />
+<img alt="Init code in Deepnote" style="display: inline;" height=100px align=center src="/_static/guide_to_flourishing/init_2.png" />
+<img alt="Init cell in Deepnote" style="display: inline;" height=100px align=center src="/_static/guide_to_flourishing/init.png" />
 
 This should run automatically, but if files appear to be missing later or you're getting issues like **"ModuleNotFoundError: No module named `package_name' "**, this cell may never have finished, especially if the kernel is glitching.
 
@@ -86,7 +86,7 @@ Deepnote is generally reliable, but "generally" is doing some work in that sente
 :class: tip
 Please ensure that you restart the kernel and run all cells from top to bottom before you submit.
 ```
-<img alt="Meme: Two buttons" style="display: inline;" height=200px src="/_static/guide_to_flourishing/2.png" />
+<img alt="Meme: Two buttons" style="display: inline;" height=200px align=center src="/_static/guide_to_flourishing/2.png" />
 
 ## The Textbook
 
@@ -157,7 +157,7 @@ Debugging probabilistic code is different, because your code can run without cra
 
 - **Check shapes.** Print `.shape**` constantly. A huge fraction of bugs here are secretly shape mismatches that numpy silently broadcasts into something that runs but means the wrong thing. Yaniv will show you how to `chex.assert` -- it's a pain but it's worth it, and it forces you to know what shape things *should* be in the first place, which is a great step in the direction of knowing-what-you're-doing.
 
-<img alt="Meme: Nuomi glare" style="display: inline;" height=200px src="/_static/guide_to_flourishing/4.png" />
+<img alt="Meme: Nuomi glare" style="display: inline;" height=200px align=center src="/_static/guide_to_flourishing/4.png" />
 
 - **Sanity-check on a tiny example first.** Pick one small enough that you can compute the right answer by hand and compare. The IHH data is often small enough to iterate on quickly, but later in the course, that changes, so choose your runs wisely!
 - **Read the error message from the bottom up.** It's often frustratingly long, but it will tell you where things went wrong if you read carefully. You *could* panic-Google the exception name, but I would argue you *shouldn't*.
@@ -167,7 +167,7 @@ Debugging probabilistic code is different, because your code can run without cra
 When you're stuck, try rubber-ducking, wall-ing?, or TA-ing? --- i.e. explain your code line by line to a rubber duck, a wall, or a very patient TA. An enormous fraction of bugs get found in the act of explaining them.
 ```
 
-<img alt="Meme: This is fine" style="display: inline;" height=200px src="/_static/guide_to_flourishing/1.png" />
+<img alt="Meme: This is fine" style="display: inline;" height=200px align=center src="/_static/guide_to_flourishing/1.png" />
 
 ## Office Hours
 
@@ -190,7 +190,7 @@ There is more math than many students expect. More than I expected, for sure. An
 
 Probabilistic ML notation trips people up early on, mostly because a small set of symbols gets reused constantly. If you've taken basic stats before and seen things like $P(X)$, $P(X \mid Y)$, and $\mathbb{E}[X]$, know that we look at them through a slightly different lens, but they're of course completely reconcilable! This makes the course much easier to navigate, especially when you're already juggling math, code, and new ML concepts. None of it needs to be memorized up front; it'll click as you use it, and you'll get a *lot* of practice.
 
-<img alt="Meme: astronauts" style="display: inline;" height=200px src="/_static/guide_to_flourishing/3.png" />
+<img alt="Meme: astronauts" style="display: inline;" height=200px align=center src="/_static/guide_to_flourishing/3.png" />
 
 ### DGMs
 

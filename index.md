@@ -2,7 +2,7 @@
 
 ```{admonition} Important Update!
 :class: danger
-If you're intereted in taking CS 245 in Fall 2026, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfTftgQqR-WiVsVWxrFi9gXGrXPlf03MDdD6TtnvXL_FltGiA/viewform?usp=publish-editor) form before **March 27 at midnight** for optimal consideration. If you missed the deadline, please go ahead and fill out the form **anyways** and you will be added to the waitlist!
+If you're interested in taking CS 245 in Fall 2026, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfTftgQqR-WiVsVWxrFi9gXGrXPlf03MDdD6TtnvXL_FltGiA/viewform?usp=publish-editor) form before **March 27 at midnight** for optimal consideration. If you missed the deadline, please go ahead and fill out the form **anyways** and you will be added to the waitlist!
 ```
 
 ```{admonition} Notice!
