@@ -1,4 +1,4 @@
-# A Guide to Flourishing in CS 245
+# A Guide to Flourishing
 
 
 ```{contents}
