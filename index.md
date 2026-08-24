@@ -31,7 +31,7 @@ Looking to learn more about the design of this course? Check out our [recent pap
 
 **Meeting Times:**
 * Mondays 2:20-3:35pm
-* Wednesdays 2:30-4:45pm
+* Wednesdays 2:30-3:45pm
 * Thursdays 2:20-3:35pm
 
 **Location:** SCI L047
