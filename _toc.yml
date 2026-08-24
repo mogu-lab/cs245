@@ -14,6 +14,7 @@ parts:
     - file: faq.md        
     - file: policies.md
     - file: skills-check.md
+    - file: guide-to-flourishing.md
   - caption: Resources
     numbered: false
     chapters:    
