@@ -48,7 +48,7 @@ If `numpy` is new to you, spend twenty minutes before the semester starts just p
 
 This course uses Deepnote so that the homework distribution code and required libraries work consistently for everyone. Deepnote is like Jupyter Notebook, if you’ve used that before, except everything runs remotely. You install packages and run your code on Deepnote rather than on your own computer, so you don't have to worry about Python versions, library installations, or differences between everyone's setups. Yay! Some tips I have:
 
-### Learn Markdown
+**Learn Markdown**
 
 Notebooks have code cells and markdown cells. Don’t skip the markdown cells. Homework questions are often included between the code cells, so make sure you read through the whole notebook. Plenty of past students (myself included) have skimmed right past them. Do so at your own risk.
 
@@ -57,7 +57,7 @@ Notebooks have code cells and markdown cells. Don’t skip the markdown cells. H
 Before submitting homework, scroll from top to bottom once to make sure you answered every written question. Hopefully thoroughly, and with thought --- I know your graders enjoy your responses!
 ```
 
-### Run the Initialization Cell
+**Run the Initialization Cell**
 
 Yaniv has set up the notebooks with an init cell that installs everything you need. It should look something like this:
 
@@ -66,7 +66,7 @@ Yaniv has set up the notebooks with an init cell that installs everything you ne
 
 This should run automatically, but if files appear to be missing later or you're getting issues like **"ModuleNotFoundError: No module named `package_name' "**, this cell may never have finished, especially if the kernel is glitching.
 
-### Be Patient With Kernels
+ **Be Patient With Kernels**
 
 Sometimes Deepnote takes a while to start. Before assuming your code is broken, it helps to check:
  - Is the kernel still starting? 
@@ -75,7 +75,7 @@ Sometimes Deepnote takes a while to start. Before assuming your code is broken, 
 
 There are also times when too many people are using Deepnote at once and it just refuses to cooperate. I'm afraid I can't really help with that one.
 
-### Save Yourself From Deepnote
+ **Save Yourself From Deepnote**
 
 Deepnote is generally reliable, but "generally" is doing some work in that sentence.
 
@@ -99,7 +99,7 @@ And then read it. I'm serious. This isn't a traditional textbook --- if he hasn'
 Keep the textbook open beside Deepnote in split screen while you work on assignments.
 ```
 
-### Read Actively, Not Passively
+ **Read Actively, Not Passively**
 
 Don't just read the simple examples in the textbook, mess with them! Try changing the numbers, the assumptions, the distributions, the parameters, and see what breaks. Yaniv is big on intuition and tinkering with things to gain said intuition!
 
@@ -118,7 +118,7 @@ If something in the reading catches your interest, ask about it in office hours.
 
 ## Homework Strategy
 
-### Read Before Coding
+ **Read Before Coding**
 
 It is extremely tempting to jump directly into Python. Instead, I recommend:
 
@@ -128,7 +128,7 @@ It is extremely tempting to jump directly into Python. Instead, I recommend:
 
 Then, and only then, should you start coding. You'll spend much less time debugging.
 
-### Write Things Out
+**Write Things Out**
 
 Especially when working with probability --- draw diagrams, write equations, work through tiny examples by hand. Machine learning becomes much easier when you can visualize models!
 
@@ -137,11 +137,11 @@ Especially when working with probability --- draw diagrams, write equations, wor
 Whiteboard, whiteboard, whiteboard. And then whiteboard some more.
 ```
 
-### Process Over Outcome
+**Process Over Outcome**
 
 It's tempting to measure your progress by whether you've "got the answer" yet, especially when you can see other people around you seemingly further along. But a slow, methodical process (forming a small hypothesis, testing it, seeing what breaks, forming the next hypothesis) gets you to a correct and *understood* answer far more reliably than trying to leap straight to the finish line. If you find yourself stuck with genuinely no forward progress after a real effort, that's not a personal failing. I would instead treat it as a signal to step away for a bit or bring it to office hours, rather than grinding in place for hours.
 
-### Start Early, Even If Just to Read Later
+**Start Early, Even If Just to Read Later**
 
 You don't have to finish a homework in one sitting, and you probably shouldn't try to.
 
@@ -151,7 +151,7 @@ Don't submit your homework immediately after finishing. Instead, come back to it
 ```
 (I have definitely been guilty of referring to things as "things," which is very not helpful.)
 
-### Debugging Tips
+**Debugging Tips**
 
 Debugging probabilistic code is different, because your code can run without crashing... and still be wrong. A few sanity checks that catch a surprising number of bugs:
 
@@ -186,13 +186,13 @@ That said, "I don't even know where to start" is a completely valid thing to bri
 
 There is more math than many students expect. More than I expected, for sure. And that's okay! (There's a reason this class also counts for Data Science credit.) I'd focus less on memorizing equations and more on understanding.
 
-### A Note on Notation
+**A Note on Notation**
 
 Probabilistic ML notation trips people up early on, mostly because a small set of symbols gets reused constantly. If you've taken basic stats before and seen things like $P(X)$, $P(X \mid Y)$, and $\mathbb{E}[X]$, know that we look at them through a slightly different lens, but they're of course completely reconcilable! This makes the course much easier to navigate, especially when you're already juggling math, code, and new ML concepts. None of it needs to be memorized up front; it'll click as you use it, and you'll get a *lot* of practice.
 
 <img alt="Meme: astronauts" style="display: inline;" height=200px align=center src="/_static/guide_to_flourishing/3.png" />
 
-### DGMs
+**DGMs**
 
 Directed Graphical Models deserve their own mention because they're everywhere in this class! Draw them, label everything, ask questions.
 
@@ -203,7 +203,7 @@ For every DGM you're given, practice writing out the full joint distribution it 
 
 Being able to go both directions is what actually means you understand it. (Yaniv will make you do this a lot.)
 
-### Why the Math Matters for the Ethics
+**Why the Math Matters for the Ethics**
 
 This is worth naming explicitly: this class is set up so that the math and the ethics conversations aren't separate tracks. When you pick a distribution, choose what a model conditions on, or decide what counts as "error," you're making a value-laden choice, even when it's dressed up in notation. Understanding the math well enough to see *where* those choices live is what lets you meaningfully critique a model instead of just trusting it because it's "statistical." (*Cough cough...* come see me after the very last ethics lesson...) So if you're someone who came in more interested in the ethics sessions than the derivations (or vice versa), it's worth knowing the two are going to keep bumping into each other on purpose.
 
@@ -213,7 +213,7 @@ Talking through problems with classmates is one of the best ways to learn this m
 
 A good rule of thumb regardless of the specific assignment's policy: you should be able to close your collaborator's notebook and rewrite your own answer from scratch. If you can't, you've probably copied more than you've understood --- and that's fine, it might take a few passes to actually click. (I've revisited some topics more than five times and still don't fully get them. It is what it is, and I have no doubt I'll be revisiting them many times more.)
 
-### Everyone Is More Confused Than They Let On
+**Everyone Is More Confused Than They Let On**
 
 It's easy to walk into a room, see everyone else looking calm and put-together, and assume you're the only one behind. You are almost certainly not. One of the more useful things you can do for your classmates --- and yourself --- is to actually say "I'm lost" out loud instead of quietly nodding along. If you lead with a real question instead of pretending you've got it, it usually turns out at least three other people were wondering the exact same thing, and now nobody has to sit there alone pretending. This isn't really a "nice to have" --- it's part of how this specific class works, since a lot of the ethics discussions depend on people being honestly, not performatively, engaged. Plus, Yaniv isn't lying when he says he loves questions.
 
