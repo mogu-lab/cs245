@@ -718,7 +718,20 @@ We may adapt the course schedule to accomodate your learning!
       <td class="normalday readingperiod">
         <span class="date_label date_label_day">17</span>
         <span class="date_label date_label_month">December</span>
-        <ul class="day_agenda"></ul>
+        <ul class="day_agenda">
+          <li>
+            <span class="tag preclass_tag">Pre-Class:</span>
+            <span><ul>
+<li>Review <a href="https://docs.google.com/document/d/1lewDZm4kyhw4ql556WXPdrP_fBXuI8d5j9ONep7GzQI/edit?usp=sharing">this list of topics</a></li>
+<li>Answer <a href="https://drive.google.com/file/d/18BravhOshLixWzpTnX8f6zDlaWt1cwxo/view?usp=sharing">these practice questions</a></li>
+<li>Compare your answer with <a href="https://drive.google.com/file/d/1XEiMGPa-_eBVtA2IfVCqsImpEmfuAfua/view?usp=sharing">these solutions</a></li>
+</ul></span>
+          </li>
+          <li>
+            <span class="tag exam_tag">Exam:</span>
+            <span>9-11:30am @ PNE-139</span>
+          </li>
+        </ul>
       </td>
     </tr>
   </tbody>
