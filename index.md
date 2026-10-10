@@ -1,17 +1,5 @@
 # Probabilistic Foundations of ML
 
-```{admonition} Important Update!
-:class: danger
-If you're interested in taking CS 245 in Fall 2026, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfTftgQqR-WiVsVWxrFi9gXGrXPlf03MDdD6TtnvXL_FltGiA/viewform?usp=publish-editor) form before **March 27 at midnight** for optimal consideration. If you missed the deadline, please go ahead and fill out the form **anyways** and you will be added to the waitlist!
-```
-
-```{admonition} Notice!
-:class: warning
-We're working to **expand** the ML offerings at Wellesley with the introduction of this **new course**, CS245, in the Spring of 2026. This course will cover a portion of the topics currently covered by [CS345](https://mogu-lab.github.io/cs345/), allowing us to expand the topics covered by CS345. Assuming everything goes according to plan, please anticipate that,
-1. CS345 will be **different** in the Spring of 2026.
-2. CS345 will require CS245 as its **only prerequisite**.
-```
-
 ```{admonition} Update
 :class: tip
 Looking to learn more about the design of this course? Check out our [recent paper](https://arxiv.org/abs/2510.25049) about it!
